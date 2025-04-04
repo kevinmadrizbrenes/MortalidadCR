@@ -1,0 +1,1015 @@
+<<<<<<< HEAD
+Año,Tipo de accidente,Provincia,Cantón,Ruta,Rol persona,Sexo,Edad,Franja,Día,Mes,Edad quinquenal
+2024,Colisión entre vehículos,Guanacaste,Santa Cruz,152,Motociclista,Hombre,27,00-06,2.Lunes,A. Enero,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Pasajero carro,Hombre,23,12-18,2.Lunes,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Osa,2,Pasajero carro,Hombre,48,06-12,5.Jueves,A. Enero,45 A 49
+2024,Colisión entre vehículos,Puntarenas,Osa,2,Pasajero carro,Hombre,46,06-12,5.Jueves,A. Enero,45 A 49
+2024,Colisión entre vehículos,Guanacaste,Liberia,21,Motociclista,Hombre,34,12-18,7.Sábado,A. Enero,30 A 34
+2024,Salió de la vía,Guanacaste,Nicoya,Cantonal o desconocida,Conductor,Hombre,26,18-24,7.Sábado,A. Enero,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Abangares,1,Conductor,Hombre,68,06-12,2.Lunes,A. Enero,65 A 69
+2024,Colisión entre vehículos,Guanacaste,Abangares,1,Pasajero carro,Hombre,40,06-12,2.Lunes,A. Enero,40 A 44
+2024,Salió de la vía,Alajuela,Orotina,Cantonal o desconocida,Motociclista,Hombre,19,06-12,3.Martes,A. Enero,15 A 19
+2024,Colisión entre vehículos,Guanacaste,Nicoya,21,Motociclista,Hombre,38,06-12,3.Martes,A. Enero,35 A 39
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Mujer,57,06-12,5.Jueves,A. Enero,55 A 59
+2024,Colisión entre vehículos,Puntarenas,Osa,2,Conductor,Hombre,38,18-24,5.Jueves,A. Enero,35 A 39
+2024,Salió de la vía,Alajuela,Naranjo,141,Conductor,Hombre,38,00-06,7.Sábado,A. Enero,35 A 39
+2024,Colisión con bicicleta,Guanacaste,Santa Cruz,21,Ciclista,Hombre,56,12-18,3.Martes,A. Enero,55 A 59
+2024,Colisión entre vehículos,San José,San José,39,Motociclista,Hombre,38,12-18,3.Martes,A. Enero,35 A 39
+2024,Salió de la vía,Heredia,Heredia,1,Motociclista,Hombre,22,18-24,4.Miércoles,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Conductor,Hombre,57,00-06,5.Jueves,A. Enero,55 A 59
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Pasajero carro,Mujer,76,00-06,5.Jueves,A. Enero,75+
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Pasajero carro,Mujer,16,00-06,5.Jueves,A. Enero,15 A 19
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Pasajero carro,Mujer,11,00-06,5.Jueves,A. Enero,10 A 14
+2024,Colisión entre vehículos,San José,Desamparados,Cantonal o desconocida,Pasajero carro,Mujer,24,12-18,5.Jueves,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,32,12-18,6.Viernes,A. Enero,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,32,12-18,6.Viernes,A. Enero,30 A 34
+2024,Atropello a persona,Alajuela,Alajuela,125,Peatón,Hombre,21,18-24,6.Viernes,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,2,Motociclista,Hombre,23,18-24,6.Viernes,A. Enero,20 A 24
+2024,Colisión entre vehículos,San José,Desamparados,Cantonal o desconocida,Motociclista,Hombre,29,12-18,7.Sábado,A. Enero,25 A 29
+2024,Colisión con objeto fijo,Puntarenas,Puntarenas,Cantonal o desconocida,Conductor,Hombre,45,00-06,1.Domingo,A. Enero,45 A 49
+2024,Colisión entre vehículos,Alajuela,Atenas,27,Pasajero carro,Mujer,25,00-06,1.Domingo,A. Enero,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,22,18-24,1.Domingo,A. Enero,20 A 24
+2024,Colisión entre vehículos,Alajuela,San Carlos,4,Conductor,Hombre,68,12-18,3.Martes,A. Enero,65 A 69
+2024,Colisión entre vehículos,Alajuela,San Carlos,4,Pasajero carro,Mujer,64,12-18,3.Martes,A. Enero,60 A 64
+2024,Colisión entre vehículos,Cartago,Jiménez,Cantonal o desconocida,Motociclista,Hombre,28,06-12,4.Miércoles,A. Enero,25 A 29
+2024,Atropello a persona,Guanacaste,Carrillo,Cantonal o desconocida,Peatón,Hombre,55,00-06,5.Jueves,A. Enero,55 A 59
+2024,Colisión con objeto fijo,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,22,00-06,6.Viernes,A. Enero,20 A 24
+2024,Colisión entre vehículos,heredia,San Pablo,3,Motociclista,Hombre,26,18-24,6.Viernes,A. Enero,25 A 29
+2024,Colisión entre vehículos,Alajuela,Orotina,27,Motociclista,hombre,22,12-18,6.Viernes,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,237,Motociclista,hombre,45,12-18,7.Sábado,A. Enero,45 A 49
+2024,atropello a persona,Alajuela,Los Chiles,813,Peatón,hombre,45,18-24,7.Sábado,A. Enero,45 A 49
+2024,Colisión entre vehículos,heredia,Heredia,3,Conductor,hombre,29,00-06,1.Domingo,A. Enero,25 A 29
+2024,Colisión entre vehículos,heredia,Heredia,1,Motociclista,hombre,40,18-24,2.Lunes,A. Enero,40 A 44
+2024,atropello a persona,Cartago,Cartago,Cantonal o desconocida,Peatón,Mujer,55,18-24,2.Lunes,A. Enero,55 A 59
+2024,Colisión con objeto fijo,Alajuela,Alajuela,Cantonal o desconocida,Pasajero carro,Hombre,26,00-06,1.Domingo,B. Febrero,25 A 29
+2024,Salió de la vía,Guanacaste,Nicoya,150,Motociclista,Hombre,49,12-18,1.Domingo,B. Febrero,45 A 49
+2024,Colisión entre vehículos,Cartago,La Unión,2,Motociclista,Hombre,29,18-24,2.Lunes,B. Febrero,25 A 29
+2024,Atropello a persona,San José,Acosta,Cantonal o desconocida,Peatón,Hombre,53,06-12,2.Lunes,B. Febrero,50 A 54
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Pasajero moto,Hombre,21,12-18,2.Lunes,B. Febrero,20 A 24
+2024,Colisión entre vehículos,Heredia,Heredia,3,Motociclista,Hombre,21,00-06,5.Jueves,B. Febrero,20 A 24
+2024,Colisión con objeto fijo,Guanacaste,Santa Cruz,21,Conductor,Hombre,21,06-12,7.Sábado,B. Febrero,20 A 24
+2024,Colisión entre vehículos,Guanacaste,Nicoya,21,Motociclista,Hombre,38,06-12,7.Sábado,B. Febrero,35 A 39
+2024,Salió de la vía,Guanacaste,Nandayure,21,Motociclista,Hombre,27,06-12,1.Domingo,B. Febrero,25 A 29
+2024,Colisión con bicicleta,San José,San José,Cantonal o desconocida,Ciclista,Mujer,32,00-06,5.Jueves,B. Febrero,30 A 34
+2024,Salió de la vía,Puntarenas,Buenos Aires,237,Conductor,Hombre,39,12-18,6.Viernes,B. Febrero,35 A 39
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,28,18-24,6.Viernes,B. Febrero,25 A 29
+2024,Atropello a persona,Alajuela,San Carlos,738,Peatón,Hombre,27,00-06,7.Sábado,B. Febrero,25 A 29
+2024,Colisión entre vehículos,Limón,Guácimo,248,Motociclista,Hombre,31,00-06,7.Sábado,B. Febrero,30 A 34
+2024,Colisión con bicicleta,Alajuela,Alajuela,3,Ciclista,Hombre,48,12-18,7.Sábado,B. Febrero,45 A 49
+2024,Colisión entre vehículos,Guanacaste,Nicoya,906,Motociclista,Hombre,33,12-18,1.Domingo,B. Febrero,30 A 34
+2024,Colisión con bicicleta,Puntarenas,Quepos,34,Ciclista,Hombre,34,00-06,2.Lunes,B. Febrero,30 A 34
+2024,Salió de la vía,Puntarenas,Golfito,245,Motociclista,Hombre,33,00-06,3.Martes,B. Febrero,30 A 34
+2024,Atropello a persona,Puntarenas,Coto Brus,Cantonal o desconocida,Peatón,Mujer,46,18-24,3.Martes,B. Febrero,45 A 49
+2024,Atropello a persona,Alajuela,Alajuela,1,Peatón,Hombre,Desconocida,00-06,4.Miércoles,B. Febrero,Desconocida
+2024,Colisión entre vehículos,Guanacaste,Nicoya,160,Pasajero moto,Mujer,Desconocida,12-18,6.Viernes,B. Febrero,Desconocida
+2024,Colisión entre vehículos,Guanacaste,Tilarán,142,Motociclista,Hombre,27,18-24,7.Sábado,B. Febrero,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Tilarán,142,Motociclista,Hombre,19,18-24,7.Sábado,B. Febrero,15 A 19
+2024,Colisión entre vehículos,Limón,Pococí,Cantonal o desconocida,Motociclista,Hombre,26,18-24,6.Viernes,B. Febrero,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Esparza,23,Conductor,Hombre,26,00-06,7.Sábado,B. Febrero,25 A 29
+2024,Salió de la vía,Heredia,San Rafael,Cantonal o desconocida,Motociclista,Hombre,27,12-18,7.Sábado,B. Febrero,25 A 29
+2024,Atropello a persona,Alajuela,San Carlos,142,Motociclista,Hombre,18,18-24,7.Sábado,B. Febrero,15 A 19
+2024,Colisión entre vehículos,Guanacaste,Tilarán,142,Motociclista,Hombre,27,18-24,7.Sábado,B. Febrero,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Tilarán,142,Motociclista,Hombre,19,00-06,7.Sábado,B. Febrero,15 A 19
+2024,Colisión entre vehículos,Limón,Talamanca,36,Motociclista,Hombre,63,12-18,1.Domingo,B. Febrero,60 A 64
+2024,Colisión entre vehículos,Alajuela,Upala,4,Motociclista,Hombre,Desconocida,18-24,1.Domingo,B. Febrero,Desconocida
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,44,18-24,1.Domingo,B. Febrero,40 A 44
+2024,Salió de la vía,Guanacaste,Hojancha,158,Motociclista,Hombre,62,06-12,2.Lunes,B. Febrero,60 A 64
+2024,Atropello a persona,Puntarenas,Buenos Aires,Cantonal o desconocida,Peatón,Hombre,68,18-24,2.Lunes,B. Febrero,65 A 69
+2024,Salió de la vía,Alajuela,Los Chiles,35,Pasajero carro,Mujer,32,18-24,4.Miércoles,B. Febrero,30 A 34
+2024,Salió de la vía,Alajuela,Los Chiles,35,Pasajero carro,Mujer,6,18-24,4.Miércoles,B. Febrero,05 A 9
+2024,Atropello a persona,Puntarenas,Osa,34,Peatón,Hombre,41,18-24,5.Jueves,B. Febrero,40 A 44
+2024,Salió de la vía,Guanacaste,Bagaces,Cantonal o desconocida,Conductor,Hombre,57,00-06,5.Jueves,C. Marzo,55 A 59
+2024,Salió de la vía,San José,Santa Ana,147,Motociclista,Hombre,44,12-18,6.Viernes,C. Marzo,40 A 44
+2024,Colisión con objeto fijo,Limón,Pococí,32,Motociclista,Hombre,40,18-24,7.Sábado,C. Marzo,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,132,Motociclista,Hombre,45,18-24,7.Sábado,C. Marzo,45 A 49
+2024,Colisión entre vehículos,Guanacaste,Nicoya,150,Motociclista,Hombre,43,12-18,1.Domingo,C. Marzo,40 A 44
+2024,Salió de la vía,Puntarenas,Golfito,245,Motociclista,Hombre,49,18-24,1.Domingo,C. Marzo,45 A 49
+2024,Atropello a persona,Puntarenas,Garabito,34,Pasajero moto,Mujer,43,06-12,6.Viernes,C. Marzo,40 A 44
+2024,Atropello a persona,San José,Curridabat,215,Peatón,Mujer,Desconocida,18-24,6.Viernes,C. Marzo,Desconocida
+2024,Colisión con objeto fijo,San José,Escazú,Cantonal o desconocida,Motociclista,Hombre,24,06-12,7.Sábado,C. Marzo,20 A 24
+2024,Salió de la vía,Puntarenas,Puntarenas,160,Motociclista,Hombre,31,06-12,1.Domingo,C. Marzo,30 A 34
+2024,Colisión con objeto fijo,Alajuela,Palmares,Cantonal o desconocida,Motociclista,hombre,31,18-24,3.Martes,C. Marzo,30 A 34
+2024,Colisión entre vehículos,Guanacaste,Carrillo,155,Pasajero carro,Hombre,44,06-12,5.Jueves,C. Marzo,40 A 44
+2024,Atropello a persona,Limón,Pococí,32,Peatón,Hombre,36,00-06,6.Viernes,C. Marzo,35 A 39
+2024,Salió de la vía,Puntarenas,Coto Brus,Cantonal o desconocida,Motociclista,Hombre,63,06-12,6.Viernes,C. Marzo,60 A 64
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Motociclista,Hombre,46,18-24,6.Viernes,C. Marzo,45 A 49
+2024,Salió de la vía,San José,Santa Ana,27,Conductor,Hombre,26,00-06,7.Sábado,C. Marzo,25 A 29
+2024,Colisión con objeto fijo,San José,Santa Ana,121,Motociclista,Hombre,24,00-06,7.Sábado,C. Marzo,20 A 24
+2024,Colisión entre vehículos,Heredia,Heredia,Cantonal o desconocida,Pasajero bus,Mujer,31,12-18,7.Sábado,C. Marzo,30 A 34
+2024,Colisión con objeto fijo,Alajuela,Poás,Cantonal o desconocida,Motociclista,Hombre,24,12-18,7.Sábado,C. Marzo,20 A 24
+2024,Colisión con objeto fijo,Alajuela,Poás,Cantonal o desconocida,Pasajero moto,Hombre,21,12-18,7.Sábado,C. Marzo,20 A 24
+2024,Salió de la vía,San José,Pérez Zeledón,2,Motociclista,Hombre,40,12-18,7.Sábado,C. Marzo,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Motociclista,Hombre,32,00-06,1.Domingo,C. Marzo,30 A 34
+2024,Atropello a persona,San José,Aserrí,209,Peatón,Hombre,42,06-12,3.Martes,C. Marzo,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Golfito,14,Motociclista,Hombre,36,12-18,3.Martes,C. Marzo,35 A 39
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Hombre,21,00-06,4.Miércoles,C. Marzo,20 A 24
+2024,Colisión con bicicleta,heredia,Sarapiquí,Cantonal o desconocida,Ciclista,Hombre,29,18-24,7.Sábado,C. Marzo,25 A 29
+2024,Salió de la vía,Guanacaste,Nicoya,150,Conductor,Hombre,24,18-24,6.Viernes,C. Marzo,20 A 24
+2024,Colisión con bicicleta,heredia,Sarapiquí,4,Ciclista,Hombre,30,06-12,6.Viernes,C. Marzo,30 A 34
+2024,Colisión con objeto fijo,Limón,Pococí,32,Conductor,Hombre,46,06-12,7.Sábado,C. Marzo,45 A 49
+2024,Salió de la vía,San José,Pérez Zeledón,2,Conductor,Hombre,78,12-18,1.Domingo,C. Marzo,75+
+2024,Vuelco,Alajuela,San Carlos,Cantonal o desconocida,Conductor,Hombre,28,12-18,2.Lunes,C. Marzo,25 A 29
+2024,Colisión con bicicleta,San José,San José,Cantonal o desconocida,Ciclista,Hombre,27,06-12,4.Miércoles,C. Marzo,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Motociclista,Mujer,32,00-06,6.Viernes,C. Marzo,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Pasajero moto,Hombre,26,00-06,6.Viernes,C. Marzo,25 A 29
+2024,Salió de la vía,Guanacaste,La Cruz,1,Pasajero carro,Hombre,34,12-18,6.Viernes,C. Marzo,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Montes de Oro,1,Pasajero carro,Hombre,40,06-12,7.Sábado,C. Marzo,40 A 44
+2024,Caída de algún ocupante,Heredia,Sarapiquí,4,Motociclista,Hombre,39,12-18,7.Sábado,C. Marzo,35 A 39
+2024,Vuelco,Guanacaste,Nandayure,21,Conductor,Mujer,24,12-18,7.Sábado,C. Marzo,20 A 24
+2024,Colisión entre vehículos,Alajuela,Zarcero,141,Motociclista,Hombre,32,00-06,1.Domingo,C. Marzo,30 A 34
+2024,Vuelco,San José,Pérez Zeledón,Cantonal o desconocida,Conductor,Hombre,48,18-24,4.Miércoles,D. Abril,45 A 49
+2024,atropello a persona,Limón,Pococí,247,Peatón,Hombre,43,18-24,5.Jueves,D. Abril,40 A 44
+2024,Vuelco,Alajuela,San Ramón,702,Pasajero carro,Hombre,73,12-18,6.Viernes,D. Abril,70 A 74
+2024,Colisión entre vehículos,Limón,Pococí,32,Conductor,Hombre,64,06-12,1.Domingo,D. Abril,60 A 64
+2024,atropello a persona,Guanacaste,Nandayure,Cantonal o desconocida,Peatón,Mujer,81,12-18,1.Domingo,D. Abril,75+
+2024,Colisión con bicicleta,Cartago,Oreamuno,219,Ciclista,Hombre,33,12-18,2.Lunes,D. Abril,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Pasajero carro,Mujer,53,06-12,3.Martes,D. Abril,50 A 54
+2024,Salió de la vía,Alajuela,Los Chiles,35,Conductor,Hombre,22,18-24,3.Martes,D. Abril,20 A 24
+2024,Salió de la vía,Alajuela,Los Chiles,35,Pasajero carro,Hombre,20,18-24,3.Martes,D. Abril,20 A 24
+2024,Colisión entre vehículos,Alajuela,San Ramón,Cantonal o desconocida,Motociclista,Hombre,Desconocida,18-24,5.Jueves,D. Abril,Desconocida
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Motociclista,Hombre,21,18-24,6.Viernes,D. Abril,20 A 24
+2024,Colisión entre vehículos,Limón,Pococí,247,Motociclista,Hombre,25,00-06,7.Sábado,D. Abril,25 A 29
+2024,Colisión entre vehículos,Alajuela,San Carlos,140,Motociclista,Hombre,48,06-12,7.Sábado,D. Abril,45 A 49
+2024,Atropello a persona,Puntarenas,Puntarenas,Cantonal o desconocida,Conductor,Hombre,40,18-24,7.Sábado,D. Abril,40 A 44
+2024,Atropello a persona,Guanacaste,santa cruz,910,Peatón,Hombre,85,12-18,1.Domingo,D. Abril,75+
+2024,Colisión entre vehículos,Limón,Limón,234,Motociclista,Hombre,29,18-24,1.Domingo,D. Abril,25 A 29
+2024,Atropello a persona,Puntarenas,Parrita,34,Peatón,Hombre,60,00-06,1.Domingo,D. Abril,60 A 64
+2024,Atropello a persona,Puntarenas,Buenos Aires,2,Peatón,Hombre,48,12-18,2.Lunes,D. Abril,45 A 49
+2024,Colisión con objeto fijo,San José,Montes de Oca,Cantonal o desconocida,Motociclista,Hombre,34,18-24,2.Lunes,D. Abril,30 A 34
+2024,Salió de la vía,Puntarenas,Garabito,34,Conductor,Hombre,57,00-06,3.Martes,D. Abril,55 A 59
+2024,Colisión con bicicleta,Limón,Limón,234,Ciclista,Hombre,55,00-06,3.Martes,D. Abril,55 A 59
+2024,Colisión entre vehículos,San José,Dota,2,Motociclista,Hombre,18,06-12,3.Martes,D. Abril,15 A 19
+2024,Colisión entre vehículos,Limón,limón,36,Motociclista,Hombre,21,18-24,3.Martes,D. Abril,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Osa,245,Pasajero moto,Hombre,30,12-18,6.Viernes,D. Abril,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Motociclista,Hombre,21,18-24,6.Viernes,D. Abril,20 A 24
+2024,Atropello a persona,Alajuela,Guatuso,4,Peatón,Hombre,37,18-24,6.Viernes,D. Abril,35 A 39
+2024,Salió de la vía,Puntarenas,Buenos Aires,2,Pasajero moto,Hombre,Desconocida,00-06,1.Domingo,D. Abril,Desconocida
+2024,Salió de la vía,Limón,Siquirres,415,Motociclista,Hombre,48,12-18,1.Domingo,D. Abril,45 A 49
+2024,Colisión entre vehículos,Cartago,Cartago,2,Motociclista,Hombre,36,06-12,4.Miércoles,D. Abril,35 A 39
+2024,Atropello a persona,Puntarenas,Garabito,34,Peatón,Hombre,Desconocida,18-24,4.Miércoles,D. Abril,Desconocida
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,27,00-06,5.Jueves,D. Abril,25 A 29
+2024,Atropello a persona,Guanacaste,Carrillo,21,Peatón,Desconocido,33,00-06,7.Sábado,D. Abril,30 A 34
+2024,Salió de la vía,Alajuela,Zarcero,141,Motociclista,Hombre,22,12-18,7.Sábado,D. Abril,20 A 24
+2024,Colisión entre vehículos,Guanacaste,Bagaces,1,Motociclista,Hombre,29,12-18,7.Sábado,D. Abril,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Carrillo,153,Motociclista,Hombre,39,00-06,1.Domingo,D. Abril,35 A 39
+2024,Colisión con bicicleta,Alajuela,Alajuela,126,Ciclista,Hombre,16,12-18,1.Domingo,D. Abril,15 A 19
+2024,Salió de la vía,San José,Aserrí,313,Motociclista,Hombre,22,12-18,1.Domingo,D. Abril,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,Desconocida,12-18,3.Martes,D. Abril,Desconocida
+2024,Salió de la vía,Puntarenas,Buenos Aires,Cantonal o desconocida,Motociclista,Hombre,25,06-12,3.Martes,D. Abril,25 A 29
+2024,Colisión entre vehículos,Alajuela,Orotina,27,Pasajero bus,Mujer,55,12-18,4.Miércoles,E. Mayo,55 A 59
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,Desconocida,18-24,4.Miércoles,E. Mayo,Desconocida
+2024,Atropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,29,00-06,7.Sábado,E. Mayo,25 A 29
+2024,Atropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,Desconocida,00-06,7.Sábado,E. Mayo,Desconocida
+2024,Salió de la vía,Limón,Siquirres,32,Motociclista,Hombre,60,00-06,7.Sábado,E. Mayo,60 A 64
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,36,12-18,7.Sábado,E. Mayo,35 A 39
+2024,Colisión entre vehículos,Alajuela,Río Cuarto,744,Motociclista,Hombre,36,12-18,1.Domingo,E. Mayo,35 A 39
+2024,Salió de la vía,San José,San José,1,Motociclista,Hombre,72,12-18,4.Miércoles,E. Mayo,70 A 74
+2024,Salió de la vía,Puntarenas,Osa,34,Pasajero carro,Mujer,23,00-06,6.Viernes,E. Mayo,20 A 24
+2024,Salió de la vía,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,29,18-24,6.Viernes,E. Mayo,25 A 29
+2024,Colisión con objeto fijo,San José,Moravia,Cantonal o desconocida,Pasajero carro,Hombre,Desconocida,00-06,7.Sábado,E. Mayo,Desconocida
+2024,Colisión entre vehículos,Guanacaste,Liberia,21,Motociclista,Desconocido,27,00-06,7.Sábado,E. Mayo,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Motociclista,Hombre,27,18-24,7.Sábado,E. Mayo,25 A 29
+2024,Salió de la vía,Limón,Pococí,810,Motociclista,Hombre,48,00-06,1.Domingo,E. Mayo,45 A 49
+2024,Colisión entre vehículos,Alajuela,Grecia,107,Conductor,Hombre,22,00-06,1.Domingo,E. Mayo,20 A 24
+2024,Colisión entre vehículos,Limón,Pococí,32,Motociclista,Hombre,25,18-24,1.Domingo,E. Mayo,25 A 29
+2024,Atropello a persona,Heredia,Heredia,1,Peatón,Hombre,38,18-24,1.Domingo,E. Mayo,35 A 39
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,2,Motociclista,Hombre,17,18-24,1.Domingo,E. Mayo,15 A 19
+2024,Salió de la vía,Guanacaste,Bagaces,Cantonal o desconocida,Pasajero moto,Hombre,12,12-18,2.Lunes,E. Mayo,10 A 14
+2024,Colisión entre vehículos,San José,Moravia,Cantonal o desconocida,Motociclista,Hombre,18,18-24,4.Miércoles,E. Mayo,15 A 19
+2024,Salió de la vía,Cartago,La Unión,2,Motociclista,Hombre,56,18-24,4.Miércoles,E. Mayo,55 A 59
+2024,Salió de la vía,Puntarenas,Puntarenas,160,Motociclista,Hombre,36,18-24,6.Viernes,E. Mayo,35 A 39
+2024,Salió de la vía,Puntarenas,Osa,34,Motociclista,Desconocido,30,00-06,7.Sábado,E. Mayo,30 A 34
+2024,Salió de la vía,Heredia,Heredia,1,Pasajero moto,Mujer,30,06-12,7.Sábado,E. Mayo,30 A 34
+2024,Colisión entre vehículos,Limón,pococí,32,Conductor,Hombre,Desconocida,06-12,7.Sábado,E. Mayo,Desconocida
+2024,Colisión entre vehículos,Limón,Pococí,32,Pasajero carro,Mujer,Desconocida,06-12,7.Sábado,E. Mayo,Desconocida
+2024,Colisión con bicicleta,Alajuela,San Carlos,Cantonal o desconocida,Ciclista,Hombre,61,00-06,7.Sábado,E. Mayo,60 A 64
+2024,Colisión entre vehículos,Guanacaste,Nicoya,150,Motociclista,Hombre,24,06-12,1.Domingo,E. Mayo,20 A 24
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Conductor,Hombre,19,06-12,3.Martes,E. Mayo,15 A 19
+2024,Atropello a persona,Heredia,Sarapiquí,4,Peatón,Hombre,48,18-24,3.Martes,E. Mayo,45 A 49
+2024,Colisión con objeto fijo,Limón,Siquirres,806,Motociclista,Hombre,35,00-06,4.Miércoles,E. Mayo,35 A 39
+2024,Salió de la vía,Alajuela,San Carlos,250,Motociclista,Hombre,26,00-06,4.Miércoles,E. Mayo,25 A 29
+2024,Colisión entre vehículos,Alajuela,Alajuela,124,Motociclista,Hombre,39,00-06,5.Jueves,E. Mayo,35 A 39
+2024,Colisión con objeto fijo,Alajuela,Alajuela,Cantonal o desconocida,Motociclista,Hombre,28,00-06,5.Jueves,E. Mayo,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Liberia,Cantonal o desconocida,Motociclista,Hombre,38,12-18,6.Viernes,E. Mayo,35 A 39
+2024,Colisión entre vehículos,Heredia,Sarapiquí,4,Motociclista,Hombre,54,18-24,7.Sábado,E. Mayo,50 A 54
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,Desconocida,18-24,7.Sábado,E. Mayo,Desconocida
+2024,Colisión entre vehículos,Alajuela,San Carlos,35,Motociclista,Hombre,24,18-24,7.Sábado,E. Mayo,20 A 24
+2024,Salió de la vía,Cartago,Oreamuno,219,Motociclista,Hombre,24,12-18,1.Domingo,E. Mayo,20 A 24
+2024,Atropello a persona,San José,San José,27,Peatón,Hombre,34,18-24,2.Lunes,E. Mayo,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Corredores,608,Motociclista,Hombre,31,18-24,5.Jueves,E. Mayo,30 A 34
+2024,Colisión entre vehículos,Limón,Siquirres,32,Conductor,Hombre,22,12-18,6.Viernes,E. Mayo,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,21,Motociclista,Hombre,27,18-24,6.Viernes,E. Mayo,25 A 29
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,29,18-24,7.Sábado,F. Junio,25 A 29
+2024,Colisión con bicicleta,San José,Santa Ana,Cantonal o desconocida,Ciclista,Hombre,29,00-06,1.Domingo,F. Junio,25 A 29
+2024,Colisión entre vehículos,Limón,Siquirres,32,Pasajero carro,Mujer,15,00-06,1.Domingo,F. Junio,15 A 19
+2024,Salió de la vía,San José,San José,39,Conductor,Hombre,39,00-06,1.Domingo,F. Junio,35 A 39
+2024,Salió de la vía,Puntarenas,Osa,Cantonal o desconocida,Motociclista,Hombre,29,06-12,2.Lunes,F. Junio,25 A 29
+2024,Atropello a persona,Alajuela,San Carlos,250,Peatón,Desconocido,26,18-24,2.Lunes,F. Junio,25 A 29
+2024,Colisión con bicicleta,Puntarenas,Puntarenas,17,Ciclista,Hombre,55,12-18,5.Jueves,F. Junio,55 A 59
+2024,Colisión con objeto fijo,Guanacaste,santa cruz,Cantonal o desconocida,Pasajero carro,Hombre,Desconocida,06-12,7.Sábado,F. Junio,Desconocida
+2024,Colisión entre vehículos,Limón,Talamanca,36,Motociclista,Hombre,33,00-06,7.Sábado,F. Junio,30 A 34
+2024,Salió de la vía,Alajuela,Sarchí,Cantonal o desconocida,Motociclista,Hombre,20,00-06,1.Domingo,F. Junio,20 A 24
+2024,Colisión con bicicleta,San José,San José,39,Ciclista,Hombre,53,00-06,1.Domingo,F. Junio,50 A 54
+2024,Salió de la vía,Puntarenas,Osa,2,Pasajero carro,Mujer,38,12-18,1.Domingo,F. Junio,35 A 39
+2024,Salió de la vía,Cartago,Paraíso,Cantonal o desconocida,Motociclista,Mujer,46,12-18,1.Domingo,F. Junio,45 A 49
+2024,Colisión entre vehículos,Puntarenas,Corredores,Cantonal o desconocida,Pasajero carro,Hombre,35,18-24,3.Martes,F. Junio,35 A 39
+2024,Colisión entre vehículos,Alajuela,Upala,4,Motociclista,Hombre,44,00-06,4.Miércoles,F. Junio,40 A 44
+2024,Atropello a persona,San José,Tibás,39,Peatón,Hombre,23,18-24,4.Miércoles,F. Junio,20 A 24
+2024,Colisión entre vehículos,Alajuela,San Carlos,142,Motociclista,Hombre,27,18-24,6.Viernes,F. Junio,25 A 29
+2024,Colisión entre vehículos,Cartago,Cartago,10,Motociclista,Hombre,30,00-06,7.Sábado,F. Junio,30 A 34
+2024,Atropello a persona,Cartago,El Guarco,Cantonal o desconocida,Peatón,Mujer,81,06-12,7.Sábado,F. Junio,75+
+2024,Colisión entre vehículos,Guanacaste,santa cruz,933,Motociclista,Hombre,26,18-24,7.Sábado,F. Junio,25 A 29
+2024,Colisión entre vehículos,Alajuela,San Carlos,250,Motociclista,Mujer,17,12-18,7.Sábado,F. Junio,15 A 19
+2024,Colisión entre vehículos,San José,Vázquez de Coronado,32,Conductor,Hombre,46,18-24,7.Sábado,F. Junio,45 A 49
+2024,Colisión entre vehículos,Limón,Guácimo,Cantonal o desconocida,Motociclista,Hombre,44,18-24,7.Sábado,F. Junio,40 A 44
+2024,Colisión con bicicleta,Limón,Siquirres,806,Ciclista,Hombre,62,06-12,1.Domingo,F. Junio,60 A 64
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Conductor,Hombre,30,18-24,3.Martes,F. Junio,30 A 34
+2024,Atropello a persona,Cartago,La Unión,2,Peatón,Hombre,30,18-24,3.Martes,F. Junio,30 A 34
+2024,Atropello a persona,Puntarenas,Puntarenas,Cantonal o desconocida,Peatón,Hombre,Desconocida,18-24,5.Jueves,F. Junio,Desconocida
+2024,Colisión con bicicleta,Limón,Talamanca,36,Ciclista,Hombre,Desconocida,18-24,5.Jueves,F. Junio,Desconocida
+2024,Salió de la vía,San José,Pérez Zeledón,2,Pasajero carro,Hombre,19,00-06,7.Sábado,F. Junio,15 A 19
+2024,Colisión con bicicleta,Limón,Siquirres,32,Ciclista,Hombre,54,18-24,7.Sábado,F. Junio,50 A 54
+2024,Colisión con bicicleta,Puntarenas,Quepos,34,Ciclista,Hombre,67,18-24,7.Sábado,F. Junio,65 A 69
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Hombre,29,12-18,1.Domingo,F. Junio,25 A 29
+2024,Colisión con bicicleta,Alajuela,Alajuela,Cantonal o desconocida,Ciclista,Hombre,42,12-18,2.Lunes,G. Julio,40 A 44
+2024,Salió de la vía,Puntarenas,Coto Brus,Cantonal o desconocida,Pasajero moto,Mujer,19,00-06,3.Martes,G. Julio,15 A 19
+2024,Salió de la vía,Alajuela,Alajuela,Cantonal o desconocida,Motociclista,Hombre,24,00-06,3.Martes,G. Julio,20 A 24
+2024,Colisión entre vehículos,Alajuela,San Ramón,1,Conductor,Hombre,Desconocida,00-06,5.Jueves,G. Julio,Desconocida
+2024,Colisión entre vehículos,San José,Vázquez de Coronado,32,Conductor,Hombre,37,18-24,5.Jueves,G. Julio,35 A 39
+2024,Colisión entre vehículos,Heredia,Sarapiquí,Cantonal o desconocida,Motociclista,Mujer,26,06-12,6.Viernes,G. Julio,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Coto Brus,Cantonal o desconocida,Motociclista,Hombre,28,18-24,7.Sábado,G. Julio,25 A 29
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Desconocido,Desconocida,06-12,3.Martes,G. Julio,Desconocida
+2024,Colisión entre vehículos,Guanacaste,Liberia,21,Motociclista,Hombre,27,06-12,2.Lunes,G. Julio,25 A 29
+2024,Salió de la vía,San José,Escazú,105,Motociclista,Hombre,26,12-18,3.Martes,G. Julio,25 A 29
+2024,Salió de la vía,Guanacaste,Liberia,1,Conductor,Hombre,69,06-12,4.Miércoles,G. Julio,65 A 69
+2024,Atropello a persona,Cartago,Cartago,Cantonal o desconocida,Peatón,Hombre,76,06-12,5.Jueves,G. Julio,75+
+2024,Colisión entre vehículos,Alajuela,alajuela,Cantonal o desconocida,Pasajero moto,Hombre,44,06-12,6.Viernes,G. Julio,40 A 44
+2024,Colisión entre vehículos,Alajuela,Atenas,27,Motociclista,Hombre,22,00-06,7.Sábado,G. Julio,20 A 24
+2024,Salió de la vía,Puntarenas,Osa,34,Conductor,Hombre,50,00-06,7.Sábado,G. Julio,50 A 54
+2024,Colisión con bicicleta,Limón,Pococí,32,Ciclista,Desconocido,Desconocida,06-12,7.Sábado,G. Julio,Desconocida
+2024,Salió de la vía,Guanacaste,Bagaces,933,Motociclista,Hombre,64,18-24,7.Sábado,G. Julio,60 A 64
+2024,Salió de la vía,San José,Pérez Zeledón,244,Motociclista,Mujer,23,18-24,4.Miércoles,G. Julio,20 A 24
+2024,Atropello a persona,San José,San José,39,Peatón,Desconocido,Desconocida,18-24,5.Jueves,G. Julio,Desconocida
+2024,Caída de algún ocupante,San José,Tibás,39,Motociclista,Hombre,21,06-12,7.Sábado,G. Julio,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,2,Conductor,Hombre,19,12-18,7.Sábado,G. Julio,15 A 19
+2024,Salió de la vía,Alajuela,San Ramón,742,Motociclista,Hombre,34,00-06,1.Domingo,G. Julio,30 A 34
+2024,Salió de la vía,Puntarenas,Golfito,Cantonal o desconocida,Motociclista,Hombre,36,18-24,1.Domingo,G. Julio,35 A 39
+2024,Colisión entre vehículos,Alajuela,San Carlos,141,Motociclista,Hombre,57,18-24,2.Lunes,G. Julio,55 A 59
+2024,Otros,Heredia,Heredia,3,Motociclista,Hombre,45,06-12,5.Jueves,G. Julio,45 A 49
+2024,Colisión contra Semoviente,Alajuela,San Carlos,4,Motociclista,Hombre,29,18-24,5.Jueves,G. Julio,25 A 29
+2024,Salió de la vía,Guanacaste,Abangares,18,Motociclista,Hombre,62,00-06,6.Viernes,G. Julio,60 A 64
+2024,Colisión entre vehículos,Limón,Talamanca,36,Motociclista,Mujer,14,12-18,6.Viernes,G. Julio,10 A 14
+2024,Salió de la vía,Alajuela,San Ramón,742,Motociclista,Hombre,34,00-06,1.Domingo,G. Julio,30 A 34
+2024,Colisión entre vehículos,Guanacaste,Liberia,1,Pasajero moto,Mujer,44,12-18,7.Sábado,G. Julio,40 A 44
+2024,ATropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,Desconocida,06-12,3.Martes,G. Julio,Desconocida
+2024,Colisión con objeto fijo,San José,San José,Cantonal o desconocida,Pasajero carro,Mujer,38,18-24,3.Martes,G. Julio,35 A 39
+2024,Colisión entre vehículos,Limón,limón,36,Motociclista,Hombre,32,06-12,5.Jueves,G. Julio,30 A 34
+2024,Atropello a persona,Cartago,Cartago,Cantonal o desconocida,Conductor,Hombre,Desconocida,18-24,5.Jueves,H. Agosto,Desconocida
+2024,Colisión con objeto fijo,San José,Moravia,Cantonal o desconocida,Motociclista,Hombre,36,06-12,7.Sábado,H. Agosto,35 A 39
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Motociclista,Hombre,31,00-06,1.Domingo,H. Agosto,30 A 34
+2024,Salió de la vía,Guanacaste,Cañas,cantonal o desconocida,Motociclista,Hombre,30,00-06,4.Miércoles,H. Agosto,30 A 34
+2024,Colisión contra Semoviente,Alajuela,Guatuso,4,Motociclista,Hombre,29,18-24,3.Martes,H. Agosto,25 A 29
+2024,Colisión con objeto fijo,Limón,Pococí,Cantonal o desconocida,Ciclista,Hombre,44,06-12,4.Miércoles,H. Agosto,40 A 44
+2024,Colisión entre vehículos,Alajuela,San Carlos,250,Motociclista,Hombre,29,18-24,5.Jueves,H. Agosto,25 A 29
+2024,Caída de algún ocupante,Alajuela,Orotina,27,Conductor,Hombre,30,00-06,1.Domingo,H. Agosto,30 A 34
+2024,Caída de algún ocupante,Alajuela,Orotina,27,Pasajero carro,Mujer,25,00-06,1.Domingo,H. Agosto,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,246,Motociclista,Mujer,26,18-24,2.Lunes,H. Agosto,25 A 29
+2024,Salió de la vía,Heredia,Sarapiquí,4,Conductor,Hombre,34,18-24,4.Miércoles,H. Agosto,30 A 34
+2024,Colisión entre vehículos,Alajuela,Sarchí,708,Motociclista,Hombre,20,00-06,5.Jueves,H. Agosto,20 A 24
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,39,12-18,6.Viernes,H. Agosto,35 A 39
+2024,Salió de la vía,Puntarenas,Corredores,2,Conductor,Hombre,44,00-06,1.Domingo,H. Agosto,40 A 44
+2024,Vuelco,Puntarenas,Puntarenas,1,Pasajero carro,Hombre,14,00-06,1.Domingo,H. Agosto,10 A 14
+2024,Salió de la vía,Puntarenas,Quepos,34,Motociclista,Hombre,43,06-12,1.Domingo,H. Agosto,40 A 44
+2024,Salió de la vía,Alajuela,San Carlos,142,Conductor,Hombre,28,00-06,3.Martes,H. Agosto,25 A 29
+2024,Salió de la vía,Puntarenas,Garabito,34,Conductor,Hombre,64,12-18,3.Martes,H. Agosto,60 A 64
+2024,Salió de la vía,Puntarenas,Garabito,34,Pasajero carro,Hombre,57,12-18,3.Martes,H. Agosto,55 A 59
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Motociclista,Hombre,24,12-18,3.Martes,H. Agosto,20 A 24
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Conductor,Mujer,27,18-24,3.Martes,H. Agosto,25 A 29
+2024,Colisión con bicicleta,Heredia,Flores,3,Ciclista,Mujer,34,00-06,5.Jueves,H. Agosto,30 A 34
+2024,Colisión con bicicleta,Puntarenas,Osa,2,Ciclista,Hombre,27,12-18,5.Jueves,H. Agosto,25 A 29
+2024,Salió de la vía,Guanacaste,Liberia,1,Pasajero carro,Hombre,Desconocida,12-18,6.Viernes,H. Agosto,Desconocida
+2024,Salió de la vía,Alajuela,Upala,6,Conductor,Hombre,25,12-18,7.Sábado,H. Agosto,25 A 29
+2024,Colisión entre vehículos,Limón,limón,36,Motociclista,Hombre,31,00-06,1.Domingo,H. Agosto,30 A 34
+2024,Colisión con bicicleta,San José,Desamparados,209,Ciclista,Hombre,16,12-18,3.Martes,H. Agosto,15 A 19
+2024,Colisión entre vehículos,Alajuela,Orotina,27,Conductor,Hombre,49,00-06,4.Miércoles,H. Agosto,45 A 49
+2024,Salió de la vía,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,30,00-06,4.Miércoles,H. Agosto,30 A 34
+2024,Colisión entre vehículos,Alajuela,Alajuela,cantonal o desconocida,Motociclista,Hombre,19,00-06,5.Jueves,H. Agosto,15 A 19
+2024,Salió de la vía,Limón,Siquirres,812,Motociclista,Hombre,23,12-18,4.Miércoles,H. Agosto,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Motociclista,Hombre,24,06-12,6.Viernes,H. Agosto,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,160,Motociclista,Hombre,40,12-18,6.Viernes,H. Agosto,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Motociclista,Hombre,Desconocida,18-24,6.Viernes,H. Agosto,Desconocida
+2024,Colisión entre vehículos,Alajuela,San Ramón,1,Motociclista,Hombre,44,06-12,2.Lunes,I. Setiembre,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Coto Brus,Cantonal o desconocida,Pasajero moto,Mujer,39,12-18,2.Lunes,I. Setiembre,35 A 39
+2024,Atropello a persona,Guanacaste,santa cruz,504,Peatón,Hombre,62,18-24,2.Lunes,I. Setiembre,60 A 64
+2024,Colisión entre vehículos,Heredia,Heredia,1,Ciclista,Hombre,37,00-06,3.Martes,I. Setiembre,35 A 39
+2024,Salió de la vía,San José,Escazú,167,Motociclista,Hombre,37,12-18,3.Martes,I. Setiembre,35 A 39
+2024,Colisión con bicicleta,Limón,Talamanca,256,Ciclista,Hombre,27,00-06,5.Jueves,I. Setiembre,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Osa,2,Motociclista,Hombre,62,12-18,6.Viernes,I. Setiembre,60 A 64
+2024,Atropello a persona,Guanacaste,Nicoya,21,Peatón,Hombre,69,18-24,6.Viernes,I. Setiembre,65 A 69
+2024,Atropello a persona,Puntarenas,Garabito,34,Peatón,Hombre,34,00-06,1.Domingo,I. Setiembre,30 A 34
+2024,Salió de la vía,Alajuela,Upala,Cantonal o desconocida,Motociclista,Hombre,46,00-06,1.Domingo,I. Setiembre,45 A 49
+2024,Salió de la vía,Alajuela,San Carlos,141,Pasajero carro,Mujer,30,06-12,1.Domingo,I. Setiembre,30 A 34
+2024,Colisión entre vehículos,Alajuela,Upala,4,Motociclista,Mujer,Desconocida,06-12,1.Domingo,I. Setiembre,Desconocida
+2024,Colisión entre vehículos,Cartago,Paraíso,224,Motociclista,Mujer,22,18-24,1.Domingo,I. Setiembre,20 A 24
+2024,Colisión con objeto fijo,San José,Montes de Oca,2,Motociclista,Hombre,21,18-24,1.Domingo,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,614,Motociclista,Hombre,Desconocida,00-06,2.Lunes,I. Setiembre,Desconocida
+2024,Colisión entre vehículos,Alajuela,Alajuela,1,Motociclista,Hombre,22,18-24,3.Martes,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Alajuela,Orotina,3,Motociclista,Hombre,20,06-12,5.Jueves,I. Setiembre,20 A 24
+2024,Salió de la vía,San José,Pérez Zeledón,Cantonal o desconocida,Conductor,Mujer,34,12-18,5.Jueves,I. Setiembre,30 A 34
+2024,Colisión entre vehículos,Cartago,Paraíso,Cantonal o desconocida,Pasajero moto,Hombre,26,18-24,6.Viernes,I. Setiembre,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Pasajero moto,Mujer,36,00-06,7.Sábado,I. Setiembre,35 A 39
+2024,Colisión con objeto fijo,Cartago,Cartago,2,Conductor,Hombre,25,00-06,7.Sábado,I. Setiembre,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Esparza,23,Conductor,Hombre,43,12-18,7.Sábado,I. Setiembre,40 A 44
+2024,Colisión con objeto fijo,San José,San José,Cantonal o desconocida,Ciclista,Hombre,59,00-06,1.Domingo,I. Setiembre,55 A 59
+2024,Colisión entre vehículos,Limón,Pococí,247,Motociclista,Hombre,39,06-12,1.Domingo,I. Setiembre,35 A 39
+2024,Colisión entre vehículos,Guanacaste,Carrillo,912,Motociclista,Hombre,63,18-24,2.Lunes,I. Setiembre,60 A 64
+2024,Colisión con bicicleta,Puntarenas,OSA,2,Ciclista,Hombre,33,18-24,2.Lunes,I. Setiembre,30 A 34
+2024,Atropello a persona,Limón,Pococí,32,Peatón,Hombre,38,00-06,3.Martes,I. Setiembre,35 A 39
+2024,Atropello a persona,San José,Pérez Zeledón,2,Peatón,Hombre,66,18-24,3.Martes,I. Setiembre,65 A 69
+2024,Vuelco,Alajuela,San Carlos,142,Motociclista,Hombre,19,00-06,4.Miércoles,I. Setiembre,15 A 19
+2024,Colisión con bicicleta,Limón,Matina,32,Ciclista,Hombre,37,00-06,4.Miércoles,I. Setiembre,35 A 39
+2024,Colisión entre vehículos,San José,Santa Ana,121,Motociclista,Hombre,27,06-12,4.Miércoles,I. Setiembre,25 A 29
+2024,Atropello a persona,Limón,Pococí,247,Ciclista,Hombre,44,18-24,4.Miércoles,I. Setiembre,40 A 44
+2024,Colisión con bicicleta,Guanacaste,Nicoya,21,Pasajero bicicleta,Mujer,22,18-24,4.Miércoles,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Alajuela,Alajuela,1,Motociclista,Hombre,44,00-06,5.Jueves,I. Setiembre,40 A 44
+2024,Colisión entre vehículos,Heredia,Heredia,1,Motociclista,Hombre,28,18-24,5.Jueves,I. Setiembre,25 A 29
+2024,Atropello a persona,Heredia,Sarapiquí,229,Ciclista,Hombre,43,00-06,7.Sábado,I. Setiembre,40 A 44
+2024,Colisión entre vehículos,Heredia,sarapiquí,4,Motociclista,Hombre,50,00-06,7.Sábado,I. Setiembre,50 A 54
+2024,Colisión con bicicleta,San José,Desamparados,2,Ciclista,Hombre,33,06-12,7.Sábado,I. Setiembre,30 A 34
+2024,Colisión con bicicleta,Alajuela,San Carlos,250,Ciclista,Hombre,42,12-18,7.Sábado,I. Setiembre,40 A 44
+2024,Colisión con bicicleta,Limón,Pococí,Cantonal o desconocida,Ciclista,Hombre,67,18-24,7.Sábado,I. Setiembre,65 A 69
+2024,Salió de la vía,Heredia,Sarapiquí,Cantonal o desconocida,Ciclista,Hombre,25,00-06,7.Sábado,I. Setiembre,25 A 29
+2024,Salió de la vía,Puntarenas,Corredores,238,Pasajero carro,Hombre,37,06-12,1.Domingo,I. Setiembre,35 A 39
+2024,Colisión entre vehículos,Puntarenas,Coto Brus,613,Motociclista,Hombre,40,12-18,1.Domingo,I. Setiembre,40 A 44
+2024,ATropello a persona,San José,Tibás,102,Peatón,Mujer,52,18-24,1.Domingo,I. Setiembre,50 A 54
+2024,Colisión con objeto fijo,Alajuela,Río Cuarto,4,Conductor,Hombre,63,18-24,1.Domingo,I. Setiembre,60 A 64
+2024,ATropello a persona,Heredia,Belén,1,Peatón,Hombre,48,06-12,2.Lunes,I. Setiembre,45 A 49
+2024,ATropello a persona,San José,Pérez Zeledón,2,Peatón,Mujer,78,06-12,4.Miércoles,I. Setiembre,75+
+2024,Colisión entre vehículos,Guanacaste,Liberia,Cantonal o desconocida,Pasajero moto,Hombre,45,12-18,5.Jueves,I. Setiembre,45 A 49
+2024,ATropello a persona,Alajuela,Grecia,Cantonal o desconocida,Peatón,Hombre,64,18-24,6.Viernes,I. Setiembre,60 A 64
+2024,Colisión entre vehículos,Alajuela,Orotina,27,Pasajero moto,Mujer,34,00-06,7.Sábado,I. Setiembre,30 A 34
+2024,Colisión con bicicleta,Limón,Siquirres,806,Motociclista,Mujer,24,00-06,7.Sábado,I. Setiembre,20 A 24
+2024,ATropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,20,00-06,1.Domingo,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Limón,Pococí,247,Motociclista,Hombre,18,12-18,1.Domingo,I. Setiembre,15 A 19
+2024,Colisión entre vehículos,Limón,Pococí,Cantonal o desconocida,Motociclista,Hombre,26,18-24,1.Domingo,I. Setiembre,25 A 29
+2024,Colisión entre vehículos,Limón,Pococí,Cantonal o desconocida,Motociclista,Hombre,21,18-24,1.Domingo,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Guanacaste,Santa Cruz,152,Motociclista,Hombre,27,18-24,3.Martes,J. Octubre,25 A 29
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,40,12-18,4.Miércoles,J. Octubre,40 A 44
+2024,Salió de la vía,Puntarenas,Buenos Aires,2,Conductor,Hombre,31,00-06,5.Jueves,J. Octubre,30 A 34
+2024,Atropello a persona,Alajuela,Alajuela,Cantonal o desconocida,Peatón,Hombre,44,06-12,5.Jueves,J. Octubre,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Montes de Oro,1,Pasajero moto,Hombre,27,18-24,5.Jueves,J. Octubre,25 A 29
+2024,Atropello a persona,Limón,Siquirres,Cantonal o desconocida,Peatón,Hombre,21,00-06,6.Viernes,J. Octubre,20 A 24
+2024,Colisión entre vehículos,Alajuela,Alajuela,27,Conductor,Hombre,40,12-18,6.Viernes,J. Octubre,40 A 44
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,48,18-24,7.Sábado,J. Octubre,45 A 49
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,20,18-24,7.Sábado,J. Octubre,20 A 24
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,24,00-06,2.Lunes,J. Octubre,20 A 24
+2024,Salió de la vía,Alajuela,Zarcero,141,Conductor,Mujer,54,06-12,3.Martes,J. Octubre,50 A 54
+2024,Caída de algún ocupante,San José,San José,Cantonal o desconocida,Conductor,Hombre,19,12-18,3.Martes,J. Octubre,15 A 19
+2024,Atropello a persona,Puntarenas,Quepos,Cantonal o desconocida,Peatón,Hombre,52,00-06,4.Miércoles,J. Octubre,50 A 54
+2024,Atropello a persona,Puntarenas,Esparza,27,Peatón,Hombre,40,18-24,4.Miércoles,J. Octubre,40 A 44
+2024,Colisión entre vehículos,Alajuela,Atenas,135,Motociclista,Hombre,20,06-12,6.Viernes,J. Octubre,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Motociclista,Hombre,57,18-24,6.Viernes,J. Octubre,55 A 59
+2024,Caída de algún ocupante,San José,Desamparados,Cantonal o desconocida,Otro,Hombre,31,00-06,6.Viernes,J. Octubre,30 A 34
+2024,Atropello a persona,San José,Escazú,27,Peatón,Hombre,30,00-06,7.Sábado,J. Octubre,30 A 34
+2024,Atropello a persona,Limón,Siquirres,32,Ciclista,Hombre,24,00-06,1.Domingo,J. Octubre,20 A 24
+2024,Atropello a persona,Guanacaste,Liberia,917,Motociclista,Hombre,19,12-18,3.Martes,J. Octubre,15 A 19
+2024,Colisión entre vehículos,Heredia,Heredia,1,Motociclista,Hombre,Desconocida,18-24,3.Martes,J. Octubre,Desconocida
+2024,Colisión con bicicleta,Guanacaste,Abangares,1,Ciclista,Hombre,30,06-12,4.Miércoles,J. Octubre,30 A 34
+2024,Colisión entre vehículos,Cartago,La Unión,2,Conductor,Hombre,Desconocida,00-06,6.Viernes,J. Octubre,Desconocida
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Pasajero carro,Mujer,36,06-12,7.Sábado,J. Octubre,35 A 39
+2024,Colisión entre vehículos,Limón,Pococí,810,Motociclista,Hombre,42,18-24,7.Sábado,J. Octubre,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Corredores,Cantonal o desconocida,Motociclista,Hombre,21,18-24,7.Sábado,J. Octubre,20 A 24
+2024,Atropello a persona,Puntarenas,Garabito,34,Peatón,Hombre,28,18-24,1.Domingo,J. Octubre,25 A 29
+2024,Colisión con objeto fijo,Guanacaste,Carrillo,151,Motociclista,Hombre,20,18-24,1.Domingo,J. Octubre,20 A 24
+2024,Colisión entre vehículos,Alajuela,Grecia,717,Motociclista,Hombre,22,06-12,2.Lunes,J. Octubre,20 A 24
+2024,Colisión con bicicleta,Limón,Pococí,249,Ciclista,Hombre,76,06-12,3.Martes,J. Octubre,75+
+2024,Colisión entre vehículos,Limón,Limón,36,Motociclista,Hombre,16,12-18,4.Miércoles,J. Octubre,15 A 19
+2024,Colisión con objeto fijo,Guanacaste,Bagaces,164,Motociclista,Hombre,29,18-24,5.Jueves,J. Octubre,25 A 29
+2024,Vuelco,Limón,Pococí,32,Conductor,Hombre,19,18-24,5.Jueves,J. Octubre,15 A 19
+2024,Colisión entre vehículos,Alajuela,San Carlos,140,Motociclista,Hombre,22,12-18,5.Jueves,J. Octubre,20 A 24
+2024,Salió de la vía,Guanacaste,Santa Cruz,155,Pasajero carro,Hombre,29,12-18,7.Sábado,J. Octubre,25 A 29
+2024,Colisión entre vehículos,Limón,Pococí,247,Motociclista,Hombre,25,12-18,7.Sábado,J. Octubre,25 A 29
+2024,Colisión con objeto fijo,Puntarenas,Puntarenas,132,Conductor,Hombre,44,00-06,1.Domingo,J. Octubre,40 A 44
+2024,Vuelco,Alajuela,San Carlos,Cantonal o desconocida,Motociclista,Hombre,Desconocida,00-06,1.Domingo,J. Octubre,Desconocida
+2024,Colisión entre vehículos,Limón,Talamanca,36,Motociclista,Hombre,34,00-06,3.Martes,J. Octubre,30 A 34
+2024,Caída de algún ocupante,Alajuela,Naranjo,1,Motociclista,Hombre,28,12-18,3.Martes,J. Octubre,25 A 29
+2024,Colisión entre vehículos,San José,San José,214,Motociclista,Hombre,19,12-18,5.Jueves,J. Octubre,15 A 19
+2024,Caída de algún ocupante,Limón,Pococí,247,Pasajero moto,Mujer,37,18-24,6.Viernes,K. Noviembre,35 A 39
+2024,Colisión entre vehículos,Guanacaste,Nicoya,Cantonal o desconocida,Motociclista,Hombre,22,00-06,7.Sábado,K. Noviembre,20 A 24
+2024,Colisión entre vehículos,Limón,Matina,Cantonal o desconocida,Ciclista,Hombre,Desconocida,18-24,7.Sábado,K. Noviembre,Desconocida
+2024,Colisión con objeto fijo,Alajuela,Alajuela,153,Motociclista,Hombre,22,00-06,1.Domingo,K. Noviembre,20 A 24
+2024,Caída de algún ocupante,Alajuela,San Carlos,35,Motociclista,Hombre,28,00-06,1.Domingo,K. Noviembre,25 A 29
+2024,Caída de algún ocupante,Limón,Guácimo,Cantonal o desconocida,Motociclista,Hombre,29,00-06,1.Domingo,K. Noviembre,25 A 29
+2024,Salió de la vía,Alajuela,Alajuela,126,Conductor,Hombre,40,06-12,2.Lunes,K. Noviembre,40 A 44
+2024,Salió de la vía,Alajuela,Alajuela,126,Pasajero carro,Hombre,30,06-12,2.Lunes,K. Noviembre,30 A 34
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Pasajero bus,Hombre,82,06-12,2.Lunes,K. Noviembre,75+
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Conductor,Hombre,47,06-12,2.Lunes,K. Noviembre,45 A 49
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Hombre,43,06-12,3.Martes,K. Noviembre,40 A 44
+2024,Salió de la vía,Puntarenas,Buenos Aires,2,Motociclista,Hombre,19,00-06,4.Miércoles,K. Noviembre,15 A 19
+2024,Caída de algún ocupante,Heredia,Sarapiquí,4,Motociclista,Hombre,56,00-06,4.Miércoles,K. Noviembre,55 A 59
+2024,Colisión entre vehículos,Guanacaste,Liberia,21,Motociclista,Hombre,28,06-12,4.Miércoles,K. Noviembre,25 A 29
+2024,Atropello a persona,Guanacaste,Abangares,1,Peatón,Hombre,Desconocida,00-06,5.Jueves,K. Noviembre,Desconocida
+2024,Salió de la vía,San José,Pérez Zeledón,Cantonal o desconocida,Pasajero carro,Hombre,68,12-18,5.Jueves,K. Noviembre,65 A 69
+2024,Colisión con bicicleta,Cartago,Turrialba,10,Ciclista,Hombre,15,18-24,5.Jueves,K. Noviembre,15 A 19
+2024,Colisión entre vehículos,Cartago,Cartago,219,Motociclista,Hombre,22,06-12,5.Jueves,K. Noviembre,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Montes de Oro,144,Motociclista,Hombre,75,06-12,1.Domingo,K. Noviembre,75+
+2024,Atropello a persona,Alajuela,San Carlos,141,Ciclista,Hombre,71,12-18,1.Domingo,K. Noviembre,70 A 74
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Pasajero moto,Mujer,75,00-06,2.Lunes,K. Noviembre,75+
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Conductor,Hombre,24,06-12,2.Lunes,K. Noviembre,20 A 24
+2024,Colisión con objeto fijo,Alajuela,Upala,6,Conductor,Hombre,41,06-12,6.Viernes,K. Noviembre,40 A 44
+2024,Colisión entre vehículos,Alajuela,Alajuela,27,Conductor,Hombre,45,06-12,6.Viernes,K. Noviembre,45 A 49
+2024,Colisión entre vehículos,Alajuela,Alajuela,27,Pasajero carro,Hombre,27,06-12,6.Viernes,K. Noviembre,25 A 29
+2024,Colisión con bicicleta,Cartago,Turrialba,232,Motociclista,Hombre,27,00-06,7.Sábado,K. Noviembre,25 A 29
+2024,Colisión con objeto fijo,San José,San José,39,Motociclista,Hombre,24,06-12,7.Sábado,K. Noviembre,20 A 24
+2024,Caída de algún ocupante,Cartago,Cartago,228,Motociclista,Hombre,46,06-12,7.Sábado,K. Noviembre,45 A 49
+2024,Colisión con bicicleta,Limón,Limón,36,Ciclista,Hombre,39,18-24,7.Sábado,K. Noviembre,35 A 39
+2024,Colisión con objeto fijo,Alajuela,San Carlos,140,Conductor,Hombre,45,00-06,1.Domingo,K. Noviembre,45 A 49
+2024,Caída de algún ocupante,Alajuela,Zarcero,Cantonal o desconocida,Conductor,Hombre,22,06-12,2.Lunes,K. Noviembre,20 A 24
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Motociclista,Hombre,33,06-12,4.Miércoles,K. Noviembre,30 A 34
+2024,Colisión contra Semoviente,Alajuela,Upala,4,Pasajero moto,Hombre,46,00-06,5.Jueves,K. Noviembre,45 A 49
+2024,Atropello a persona,Alajuela,Orotina,27,Peatón,Hombre,37,00-06,7.Sábado,K. Noviembre,35 A 39
+2024,Colisión con bicicleta,San José,Pérez Zeledón,2,Ciclista,Mujer,33,06-12,7.Sábado,K. Noviembre,30 A 34
+2024,Salió de la vía,Heredia,Heredia,3,Motociclista,Hombre,22,18-24,7.Sábado,K. Noviembre,20 A 24
+2024,Caída de algún ocupante,Puntarenas,Osa,2,Motociclista,Hombre,55,12-18,1.Domingo,K. Noviembre,55 A 59
+2024,Caída de algún ocupante,Puntarenas,Osa,2,Pasajero moto,Mujer,52,12-18,1.Domingo,K. Noviembre,50 A 54
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Motociclista,Hombre,66,18-24,1.Domingo,K. Noviembre,65 A 69
+2024,Colisión entre vehículos,San José,Pérez Zeledón,243,Motociclista,Hombre,28,12-18,3.Martes,K. Noviembre,25 A 29
+2024,Colisión con objeto fijo,Alajuela,San Carlos,35,Conductor,Hombre,30,18-24,4.Miércoles,K. Noviembre,30 A 34
+2024,Colisión entre vehículos,Heredia,Sarapiquí,4,Motociclista,Hombre,44,12-18,5.Jueves,K. Noviembre,40 A 44
+2024,Salió de la vía,San José,Puriscal,239,Conductor,Mujer,36,12-18,6.Viernes,K. Noviembre,35 A 39
+2024,Colisión entre vehículos,San José,Puriscal,239,Motociclista,Hombre,66,12-18,6.Viernes,K. Noviembre,65 A 69
+2024,Atropello a persona,Alajuela,Orotina,34,Peatón,Hombre,24,18-24,6.Viernes,K. Noviembre,20 A 24
+2024,Colisión entre vehículos,Limón,Guácimo,32,Motociclista,Hombre,51,00-06,7.Sábado,K. Noviembre,50 A 54
+2024,Salió de la vía,Puntarenas,Quepos,34,Pasajero carro,Hombre,66,18-24,3.Martes,L. Diciembre,65 A 69
+2024,Colisión con objeto fijo,Limón,Pococí,249,Motociclista,Hombre,19,06-12,4.Miércoles,L. Diciembre,15 A 19
+2024,Colisión entre vehículos,San José,San José,39,Motociclista,Hombre,36,12-18,4.Miércoles,L. Diciembre,35 A 39
+2024,Colisión entre vehículos,Limón,Siquirres,415,Motociclista,Hombre,27,18-24,4.Miércoles,L. Diciembre,25 A 29
+2024,Atropello a persona,Alajuela,Naranjo,1,Peatón,Mujer,66,12-18,5.Jueves,L. Diciembre,65 A 69
+2024,Atropello a persona,Guanacaste,Nicoya,150,Peatón,Hombre,63,00-06,6.Viernes,L. Diciembre,60 A 64
+2024,Colisión entre vehículos,San José,Vázquez de Coronado,102,Motociclista,Hombre,31,12-18,7.Sábado,L. Diciembre,30 A 34
+2024,Salió de la vía,Guanacaste,Santa Cruz,910,Pasajero moto,Mujer,36,18-24,7.Sábado,L. Diciembre,35 A 39
+2024,Colisión con objeto fijo,Limón,Guácimo,32,Conductor,Hombre,54,18-24,7.Sábado,L. Diciembre,50 A 54
+2024,Colisión entre vehículos,Alajuela,Upala,6,Motociclista,Hombre,34,18-24,7.Sábado,L. Diciembre,30 A 34
+2024,Colisión entre vehículos,Limón,Limón,32,Motociclista,Hombre,38,00-06,1.Domingo,L. Diciembre,35 A 39
+2024,Colisión entre vehículos,San José,Escazú,27,Motociclista,Hombre,Desconocida,00-06,1.Domingo,L. Diciembre,Desconocida
+2024,Colisión entre vehículos,Alajuela,Alajuela,Cantonal o desconocida,Ciclista,Hombre,40,00-06,1.Domingo,L. Diciembre,40 A 44
+2024,Salió de la vía,Alajuela,San Carlos,140,Motociclista,Hombre,31,00-06,1.Domingo,L. Diciembre,30 A 34
+2024,Colisión entre vehículos,Heredia,Heredia,1,Motociclista,Mujer,52,06-12,1.Domingo,L. Diciembre,50 A 54
+2024,Colisión entre vehículos,Heredia,Heredia,1,Pasajero carro,Mujer,42,06-12,1.Domingo,L. Diciembre,40 A 44
+2024,Salió de la vía,Puntarenas,Golfito,245,Motociclista,Hombre,18,00-06,2.Lunes,L. Diciembre,15 A 19
+2024,Colisión con objeto fijo,Limón,Talamanca,36,Motociclista,Hombre,68,18-24,2.Lunes,L. Diciembre,65 A 69
+2024,Atropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,48,18-24,2.Lunes,L. Diciembre,45 A 49
+2024,Colisión entre vehículos,Alajuela,Grecia,1,Motociclista,Hombre,29,18-24,3.Martes,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,53,12-18,4.Miércoles,L. Diciembre,50 A 54
+2024,Atropello a persona,Puntarenas,Buenos Aires,2,Peatón,Hombre,81,06-12,5.Jueves,L. Diciembre,75+
+2024,Atropello a persona,San José,Santa Ana,27,Peatón,Hombre,47,00-06,5.Jueves,L. Diciembre,45 A 49
+2024,Vuelco,Puntarenas,Garabito,34,Pasajero carro,Mujer,28,06-12,6.Viernes,L. Diciembre,25 A 29
+2024,Atropello a persona,Alajuela,Alajuela,Cantonal o desconocida,Peatón,Hombre,71,06-12,6.Viernes,L. Diciembre,70 A 74
+2024,Vuelco,San José,Vázquez de Coronado,32,Conductor,Hombre,56,18-24,6.Viernes,L. Diciembre,55 A 59
+2024,Colisión entre vehículos,San José,Curridabat,Cantonal o desconocida,Conductor,Hombre,25,18-24,6.Viernes,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,San José,Santa Ana,Cantonal o desconocida,Pasajero moto,Mujer,20,18-24,6.Viernes,L. Diciembre,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Motociclista,Hombre,Desconocida,00-06,7.Sábado,L. Diciembre,Desconocida
+2024,Salió de la vía,Alajuela,San Mateo,Cantonal o desconocida,Conductor,Hombre,70,18-24,7.Sábado,L. Diciembre,70 A 74
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,60,18-24,1.Domingo,L. Diciembre,60 A 64
+2024,Atropello a persona,Puntarenas,Esparza,1,Peatón,Hombre,61,18-24,1.Domingo,L. Diciembre,60 A 64
+2024,Colisión entre vehículos,Limón,Limón,32,Motociclista,Hombre,19,18-24,1.Domingo,L. Diciembre,15 A 19
+2024,Colisión entre vehículos,Alajuela,Alajuela,1,Motociclista,Hombre,34,12-18,2.Lunes,L. Diciembre,30 A 34
+2024,Colisión entre vehículos,Alajuela,San Carlos,250,Motociclista,Hombre,43,12-18,2.Lunes,L. Diciembre,40 A 44
+2024,Salió de la vía,Puntarenas,Golfito,Cantonal o desconocida,Conductor,Hombre,43,06-12,3.Martes,L. Diciembre,40 A 44
+2024,Colisión entre vehículos,Alajuela,San Carlos,4,Motociclista,Hombre,55,06-12,4.Miércoles,L. Diciembre,55 A 59
+2024,Colisión entre vehículos,Alajuela,Alajuela,153,Motociclista,Hombre,62,06-12,4.Miércoles,L. Diciembre,60 A 64
+2024,Colisión con objeto fijo,Guanacaste,Nicoya,Cantonal o desconocida,Conductor,Hombre,60,12-18,4.Miércoles,L. Diciembre,60 A 64
+2024,Colisión entre vehículos,Limón,Limón,234,Motociclista,Hombre,22,18-24,4.Miércoles,L. Diciembre,20 A 24
+2024,Caída de algún ocupante,San José,Acosta,Cantonal o desconocida,Motociclista,Mujer,25,18-24,4.Miércoles,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,San José,Pérez Zeledón,2,Motociclista,Hombre,34,18-24,5.Jueves,L. Diciembre,30 A 34
+2024,Salió de la vía,Puntarenas,Golfito,245,Motociclista,Hombre,31,18-24,6.Viernes,L. Diciembre,30 A 34
+2024,Colisión entre vehículos,San José,Curridabat,Cantonal o desconocida,Motociclista,Hombre,26,18-24,7.Sábado,L. Diciembre,25 A 29
+2024,Atropello a persona,Limón,Matina,Cantonal o desconocida,Pasajero moto,Mujer,19,00-06,7.Sábado,L. Diciembre,15 A 19
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Motociclista,Mujer,35,06-12,7.Sábado,L. Diciembre,35 A 39
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Conductor,Hombre,61,06-12,1.Domingo,L. Diciembre,60 A 64
+2024,Colisión con objeto fijo,Puntarenas,Montes de Oro,Cantonal o desconocida,Pasajero carro,Mujer,70,06-12,1.Domingo,L. Diciembre,70 A 74
+2024,Colisión con objeto fijo,Puntarenas,Esparza,Cantonal o desconocida,Motociclista,Hombre,25,12-18,1.Domingo,L. Diciembre,25 A 29
+2024,Colisión con objeto fijo,Puntarenas,Esparza,Cantonal o desconocida,Motociclista,Hombre,31,00-06,2.Lunes,L. Diciembre,30 A 34
+2024,Salió de la vía,Puntarenas,Esparza,1,Pasajero moto,Mujer,26,00-06,2.Lunes,L. Diciembre,25 A 29
+2024,Atropello a persona,Cartago,Turrialba,414,Peatón,Hombre,6,06-12,2.Lunes,L. Diciembre,05 A 9
+2024,Colisión entre vehículos,Guanacaste,Nicoya,150,Pasajero moto,Hombre,22,18-24,4.Miércoles,L. Diciembre,20 A 24
+2024,Atropello a persona,San José,Moravia,109,Peatón,Hombre,62,06-12,6.Viernes,L. Diciembre,60 A 64
+2024,Colisión entre vehículos,Alajuela,Naranjo,1,Motociclista,Hombre,26,12-18,6.Viernes,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,Cartago,Cartago,10,Peatón,Hombre,46,18-24,6.Viernes,L. Diciembre,45 A 49
+2024,Atropello a persona,Puntarenas,Osa,2,Peatón,Hombre,45,18-24,7.Sábado,L. Diciembre,45 A 49
+2024,Colisión entre vehículos,Alajuela,San Ramón,1,Conductor,Mujer,20,12-18,1.Domingo,L. Diciembre,20 A 24
+2024,Colisión con bicicleta,Alajuela,Guatuso,4,Ciclista,Hombre,49,00-06,2.Lunes,L. Diciembre,45 A 49
+2024,Atropello a persona,Puntarenas,Osa,2,Peatón,Hombre,45,18-24,7.Sábado,L. Diciembre,45 A 49
+2024,Atropello a persona,Puntarenas,Osa,2,Peatón,Hombre,27,18-24,2.Lunes,L. Diciembre,25 A 29
+2024,Salió de la vía,Alajuela,Grecia,154,Pasajero moto,Mujer,21,18-24,2.Lunes,L. Diciembre,20 A 24
+2024,Salió de la vía,Puntarenas,Parrita,34,Motociclista,Hombre,28,18-24,3.Martes,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,Alajuela,Atenas,3,Motociclista,Hombre,Desconocida,18-24,3.Martes,L. Diciembre,Desconocida
+2024,Colisión entre vehículos,Limón,Siquirres,32,Motociclista,Mujer,28,18-24,3.Martes,L. Diciembre,25 A 29
+=======
+Año,Tipo de accidente,Provincia,Cantón,Ruta,Rol persona,Sexo,Edad,Franja,Día,Mes,Edad quinquenal
+2024,Colisión entre vehículos,Guanacaste,Santa Cruz,152,Motociclista,Hombre,27,00-06,2.Lunes,A. Enero,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Pasajero carro,Hombre,23,12-18,2.Lunes,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Osa,2,Pasajero carro,Hombre,48,06-12,5.Jueves,A. Enero,45 A 49
+2024,Colisión entre vehículos,Puntarenas,Osa,2,Pasajero carro,Hombre,46,06-12,5.Jueves,A. Enero,45 A 49
+2024,Colisión entre vehículos,Guanacaste,Liberia,21,Motociclista,Hombre,34,12-18,7.Sábado,A. Enero,30 A 34
+2024,Salió de la vía,Guanacaste,Nicoya,Cantonal o desconocida,Conductor,Hombre,26,18-24,7.Sábado,A. Enero,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Abangares,1,Conductor,Hombre,68,06-12,2.Lunes,A. Enero,65 A 69
+2024,Colisión entre vehículos,Guanacaste,Abangares,1,Pasajero carro,Hombre,40,06-12,2.Lunes,A. Enero,40 A 44
+2024,Salió de la vía,Alajuela,Orotina,Cantonal o desconocida,Motociclista,Hombre,19,06-12,3.Martes,A. Enero,15 A 19
+2024,Colisión entre vehículos,Guanacaste,Nicoya,21,Motociclista,Hombre,38,06-12,3.Martes,A. Enero,35 A 39
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Mujer,57,06-12,5.Jueves,A. Enero,55 A 59
+2024,Colisión entre vehículos,Puntarenas,Osa,2,Conductor,Hombre,38,18-24,5.Jueves,A. Enero,35 A 39
+2024,Salió de la vía,Alajuela,Naranjo,141,Conductor,Hombre,38,00-06,7.Sábado,A. Enero,35 A 39
+2024,Colisión con bicicleta,Guanacaste,Santa Cruz,21,Ciclista,Hombre,56,12-18,3.Martes,A. Enero,55 A 59
+2024,Colisión entre vehículos,San José,San José,39,Motociclista,Hombre,38,12-18,3.Martes,A. Enero,35 A 39
+2024,Salió de la vía,Heredia,Heredia,1,Motociclista,Hombre,22,18-24,4.Miércoles,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Conductor,Hombre,57,00-06,5.Jueves,A. Enero,55 A 59
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Pasajero carro,Mujer,76,00-06,5.Jueves,A. Enero,75+
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Pasajero carro,Mujer,16,00-06,5.Jueves,A. Enero,15 A 19
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Pasajero carro,Mujer,11,00-06,5.Jueves,A. Enero,10 A 14
+2024,Colisión entre vehículos,San José,Desamparados,Cantonal o desconocida,Pasajero carro,Mujer,24,12-18,5.Jueves,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,32,12-18,6.Viernes,A. Enero,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,32,12-18,6.Viernes,A. Enero,30 A 34
+2024,Atropello a persona,Alajuela,Alajuela,125,Peatón,Hombre,21,18-24,6.Viernes,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,2,Motociclista,Hombre,23,18-24,6.Viernes,A. Enero,20 A 24
+2024,Colisión entre vehículos,San José,Desamparados,Cantonal o desconocida,Motociclista,Hombre,29,12-18,7.Sábado,A. Enero,25 A 29
+2024,Colisión con objeto fijo,Puntarenas,Puntarenas,Cantonal o desconocida,Conductor,Hombre,45,00-06,1.Domingo,A. Enero,45 A 49
+2024,Colisión entre vehículos,Alajuela,Atenas,27,Pasajero carro,Mujer,25,00-06,1.Domingo,A. Enero,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,22,18-24,1.Domingo,A. Enero,20 A 24
+2024,Colisión entre vehículos,Alajuela,San Carlos,4,Conductor,Hombre,68,12-18,3.Martes,A. Enero,65 A 69
+2024,Colisión entre vehículos,Alajuela,San Carlos,4,Pasajero carro,Mujer,64,12-18,3.Martes,A. Enero,60 A 64
+2024,Colisión entre vehículos,Cartago,Jiménez,Cantonal o desconocida,Motociclista,Hombre,28,06-12,4.Miércoles,A. Enero,25 A 29
+2024,Atropello a persona,Guanacaste,Carrillo,Cantonal o desconocida,Peatón,Hombre,55,00-06,5.Jueves,A. Enero,55 A 59
+2024,Colisión con objeto fijo,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,22,00-06,6.Viernes,A. Enero,20 A 24
+2024,Colisión entre vehículos,heredia,San Pablo,3,Motociclista,Hombre,26,18-24,6.Viernes,A. Enero,25 A 29
+2024,Colisión entre vehículos,Alajuela,Orotina,27,Motociclista,hombre,22,12-18,6.Viernes,A. Enero,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,237,Motociclista,hombre,45,12-18,7.Sábado,A. Enero,45 A 49
+2024,atropello a persona,Alajuela,Los Chiles,813,Peatón,hombre,45,18-24,7.Sábado,A. Enero,45 A 49
+2024,Colisión entre vehículos,heredia,Heredia,3,Conductor,hombre,29,00-06,1.Domingo,A. Enero,25 A 29
+2024,Colisión entre vehículos,heredia,Heredia,1,Motociclista,hombre,40,18-24,2.Lunes,A. Enero,40 A 44
+2024,atropello a persona,Cartago,Cartago,Cantonal o desconocida,Peatón,Mujer,55,18-24,2.Lunes,A. Enero,55 A 59
+2024,Colisión con objeto fijo,Alajuela,Alajuela,Cantonal o desconocida,Pasajero carro,Hombre,26,00-06,1.Domingo,B. Febrero,25 A 29
+2024,Salió de la vía,Guanacaste,Nicoya,150,Motociclista,Hombre,49,12-18,1.Domingo,B. Febrero,45 A 49
+2024,Colisión entre vehículos,Cartago,La Unión,2,Motociclista,Hombre,29,18-24,2.Lunes,B. Febrero,25 A 29
+2024,Atropello a persona,San José,Acosta,Cantonal o desconocida,Peatón,Hombre,53,06-12,2.Lunes,B. Febrero,50 A 54
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Pasajero moto,Hombre,21,12-18,2.Lunes,B. Febrero,20 A 24
+2024,Colisión entre vehículos,Heredia,Heredia,3,Motociclista,Hombre,21,00-06,5.Jueves,B. Febrero,20 A 24
+2024,Colisión con objeto fijo,Guanacaste,Santa Cruz,21,Conductor,Hombre,21,06-12,7.Sábado,B. Febrero,20 A 24
+2024,Colisión entre vehículos,Guanacaste,Nicoya,21,Motociclista,Hombre,38,06-12,7.Sábado,B. Febrero,35 A 39
+2024,Salió de la vía,Guanacaste,Nandayure,21,Motociclista,Hombre,27,06-12,1.Domingo,B. Febrero,25 A 29
+2024,Colisión con bicicleta,San José,San José,Cantonal o desconocida,Ciclista,Mujer,32,00-06,5.Jueves,B. Febrero,30 A 34
+2024,Salió de la vía,Puntarenas,Buenos Aires,237,Conductor,Hombre,39,12-18,6.Viernes,B. Febrero,35 A 39
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,28,18-24,6.Viernes,B. Febrero,25 A 29
+2024,Atropello a persona,Alajuela,San Carlos,738,Peatón,Hombre,27,00-06,7.Sábado,B. Febrero,25 A 29
+2024,Colisión entre vehículos,Limón,Guácimo,248,Motociclista,Hombre,31,00-06,7.Sábado,B. Febrero,30 A 34
+2024,Colisión con bicicleta,Alajuela,Alajuela,3,Ciclista,Hombre,48,12-18,7.Sábado,B. Febrero,45 A 49
+2024,Colisión entre vehículos,Guanacaste,Nicoya,906,Motociclista,Hombre,33,12-18,1.Domingo,B. Febrero,30 A 34
+2024,Colisión con bicicleta,Puntarenas,Quepos,34,Ciclista,Hombre,34,00-06,2.Lunes,B. Febrero,30 A 34
+2024,Salió de la vía,Puntarenas,Golfito,245,Motociclista,Hombre,33,00-06,3.Martes,B. Febrero,30 A 34
+2024,Atropello a persona,Puntarenas,Coto Brus,Cantonal o desconocida,Peatón,Mujer,46,18-24,3.Martes,B. Febrero,45 A 49
+2024,Atropello a persona,Alajuela,Alajuela,1,Peatón,Hombre,Desconocida,00-06,4.Miércoles,B. Febrero,Desconocida
+2024,Colisión entre vehículos,Guanacaste,Nicoya,160,Pasajero moto,Mujer,Desconocida,12-18,6.Viernes,B. Febrero,Desconocida
+2024,Colisión entre vehículos,Guanacaste,Tilarán,142,Motociclista,Hombre,27,18-24,7.Sábado,B. Febrero,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Tilarán,142,Motociclista,Hombre,19,18-24,7.Sábado,B. Febrero,15 A 19
+2024,Colisión entre vehículos,Limón,Pococí,Cantonal o desconocida,Motociclista,Hombre,26,18-24,6.Viernes,B. Febrero,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Esparza,23,Conductor,Hombre,26,00-06,7.Sábado,B. Febrero,25 A 29
+2024,Salió de la vía,Heredia,San Rafael,Cantonal o desconocida,Motociclista,Hombre,27,12-18,7.Sábado,B. Febrero,25 A 29
+2024,Atropello a persona,Alajuela,San Carlos,142,Motociclista,Hombre,18,18-24,7.Sábado,B. Febrero,15 A 19
+2024,Colisión entre vehículos,Guanacaste,Tilarán,142,Motociclista,Hombre,27,18-24,7.Sábado,B. Febrero,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Tilarán,142,Motociclista,Hombre,19,00-06,7.Sábado,B. Febrero,15 A 19
+2024,Colisión entre vehículos,Limón,Talamanca,36,Motociclista,Hombre,63,12-18,1.Domingo,B. Febrero,60 A 64
+2024,Colisión entre vehículos,Alajuela,Upala,4,Motociclista,Hombre,Desconocida,18-24,1.Domingo,B. Febrero,Desconocida
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,44,18-24,1.Domingo,B. Febrero,40 A 44
+2024,Salió de la vía,Guanacaste,Hojancha,158,Motociclista,Hombre,62,06-12,2.Lunes,B. Febrero,60 A 64
+2024,Atropello a persona,Puntarenas,Buenos Aires,Cantonal o desconocida,Peatón,Hombre,68,18-24,2.Lunes,B. Febrero,65 A 69
+2024,Salió de la vía,Alajuela,Los Chiles,35,Pasajero carro,Mujer,32,18-24,4.Miércoles,B. Febrero,30 A 34
+2024,Salió de la vía,Alajuela,Los Chiles,35,Pasajero carro,Mujer,6,18-24,4.Miércoles,B. Febrero,05 A 9
+2024,Atropello a persona,Puntarenas,Osa,34,Peatón,Hombre,41,18-24,5.Jueves,B. Febrero,40 A 44
+2024,Salió de la vía,Guanacaste,Bagaces,Cantonal o desconocida,Conductor,Hombre,57,00-06,5.Jueves,C. Marzo,55 A 59
+2024,Salió de la vía,San José,Santa Ana,147,Motociclista,Hombre,44,12-18,6.Viernes,C. Marzo,40 A 44
+2024,Colisión con objeto fijo,Limón,Pococí,32,Motociclista,Hombre,40,18-24,7.Sábado,C. Marzo,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,132,Motociclista,Hombre,45,18-24,7.Sábado,C. Marzo,45 A 49
+2024,Colisión entre vehículos,Guanacaste,Nicoya,150,Motociclista,Hombre,43,12-18,1.Domingo,C. Marzo,40 A 44
+2024,Salió de la vía,Puntarenas,Golfito,245,Motociclista,Hombre,49,18-24,1.Domingo,C. Marzo,45 A 49
+2024,Atropello a persona,Puntarenas,Garabito,34,Pasajero moto,Mujer,43,06-12,6.Viernes,C. Marzo,40 A 44
+2024,Atropello a persona,San José,Curridabat,215,Peatón,Mujer,Desconocida,18-24,6.Viernes,C. Marzo,Desconocida
+2024,Colisión con objeto fijo,San José,Escazú,Cantonal o desconocida,Motociclista,Hombre,24,06-12,7.Sábado,C. Marzo,20 A 24
+2024,Salió de la vía,Puntarenas,Puntarenas,160,Motociclista,Hombre,31,06-12,1.Domingo,C. Marzo,30 A 34
+2024,Colisión con objeto fijo,Alajuela,Palmares,Cantonal o desconocida,Motociclista,hombre,31,18-24,3.Martes,C. Marzo,30 A 34
+2024,Colisión entre vehículos,Guanacaste,Carrillo,155,Pasajero carro,Hombre,44,06-12,5.Jueves,C. Marzo,40 A 44
+2024,Atropello a persona,Limón,Pococí,32,Peatón,Hombre,36,00-06,6.Viernes,C. Marzo,35 A 39
+2024,Salió de la vía,Puntarenas,Coto Brus,Cantonal o desconocida,Motociclista,Hombre,63,06-12,6.Viernes,C. Marzo,60 A 64
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Motociclista,Hombre,46,18-24,6.Viernes,C. Marzo,45 A 49
+2024,Salió de la vía,San José,Santa Ana,27,Conductor,Hombre,26,00-06,7.Sábado,C. Marzo,25 A 29
+2024,Colisión con objeto fijo,San José,Santa Ana,121,Motociclista,Hombre,24,00-06,7.Sábado,C. Marzo,20 A 24
+2024,Colisión entre vehículos,Heredia,Heredia,Cantonal o desconocida,Pasajero bus,Mujer,31,12-18,7.Sábado,C. Marzo,30 A 34
+2024,Colisión con objeto fijo,Alajuela,Poás,Cantonal o desconocida,Motociclista,Hombre,24,12-18,7.Sábado,C. Marzo,20 A 24
+2024,Colisión con objeto fijo,Alajuela,Poás,Cantonal o desconocida,Pasajero moto,Hombre,21,12-18,7.Sábado,C. Marzo,20 A 24
+2024,Salió de la vía,San José,Pérez Zeledón,2,Motociclista,Hombre,40,12-18,7.Sábado,C. Marzo,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Motociclista,Hombre,32,00-06,1.Domingo,C. Marzo,30 A 34
+2024,Atropello a persona,San José,Aserrí,209,Peatón,Hombre,42,06-12,3.Martes,C. Marzo,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Golfito,14,Motociclista,Hombre,36,12-18,3.Martes,C. Marzo,35 A 39
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Hombre,21,00-06,4.Miércoles,C. Marzo,20 A 24
+2024,Colisión con bicicleta,heredia,Sarapiquí,Cantonal o desconocida,Ciclista,Hombre,29,18-24,7.Sábado,C. Marzo,25 A 29
+2024,Salió de la vía,Guanacaste,Nicoya,150,Conductor,Hombre,24,18-24,6.Viernes,C. Marzo,20 A 24
+2024,Colisión con bicicleta,heredia,Sarapiquí,4,Ciclista,Hombre,30,06-12,6.Viernes,C. Marzo,30 A 34
+2024,Colisión con objeto fijo,Limón,Pococí,32,Conductor,Hombre,46,06-12,7.Sábado,C. Marzo,45 A 49
+2024,Salió de la vía,San José,Pérez Zeledón,2,Conductor,Hombre,78,12-18,1.Domingo,C. Marzo,75+
+2024,Vuelco,Alajuela,San Carlos,Cantonal o desconocida,Conductor,Hombre,28,12-18,2.Lunes,C. Marzo,25 A 29
+2024,Colisión con bicicleta,San José,San José,Cantonal o desconocida,Ciclista,Hombre,27,06-12,4.Miércoles,C. Marzo,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Motociclista,Mujer,32,00-06,6.Viernes,C. Marzo,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Pasajero moto,Hombre,26,00-06,6.Viernes,C. Marzo,25 A 29
+2024,Salió de la vía,Guanacaste,La Cruz,1,Pasajero carro,Hombre,34,12-18,6.Viernes,C. Marzo,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Montes de Oro,1,Pasajero carro,Hombre,40,06-12,7.Sábado,C. Marzo,40 A 44
+2024,Caída de algún ocupante,Heredia,Sarapiquí,4,Motociclista,Hombre,39,12-18,7.Sábado,C. Marzo,35 A 39
+2024,Vuelco,Guanacaste,Nandayure,21,Conductor,Mujer,24,12-18,7.Sábado,C. Marzo,20 A 24
+2024,Colisión entre vehículos,Alajuela,Zarcero,141,Motociclista,Hombre,32,00-06,1.Domingo,C. Marzo,30 A 34
+2024,Vuelco,San José,Pérez Zeledón,Cantonal o desconocida,Conductor,Hombre,48,18-24,4.Miércoles,D. Abril,45 A 49
+2024,atropello a persona,Limón,Pococí,247,Peatón,Hombre,43,18-24,5.Jueves,D. Abril,40 A 44
+2024,Vuelco,Alajuela,San Ramón,702,Pasajero carro,Hombre,73,12-18,6.Viernes,D. Abril,70 A 74
+2024,Colisión entre vehículos,Limón,Pococí,32,Conductor,Hombre,64,06-12,1.Domingo,D. Abril,60 A 64
+2024,atropello a persona,Guanacaste,Nandayure,Cantonal o desconocida,Peatón,Mujer,81,12-18,1.Domingo,D. Abril,75+
+2024,Colisión con bicicleta,Cartago,Oreamuno,219,Ciclista,Hombre,33,12-18,2.Lunes,D. Abril,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Pasajero carro,Mujer,53,06-12,3.Martes,D. Abril,50 A 54
+2024,Salió de la vía,Alajuela,Los Chiles,35,Conductor,Hombre,22,18-24,3.Martes,D. Abril,20 A 24
+2024,Salió de la vía,Alajuela,Los Chiles,35,Pasajero carro,Hombre,20,18-24,3.Martes,D. Abril,20 A 24
+2024,Colisión entre vehículos,Alajuela,San Ramón,Cantonal o desconocida,Motociclista,Hombre,Desconocida,18-24,5.Jueves,D. Abril,Desconocida
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Motociclista,Hombre,21,18-24,6.Viernes,D. Abril,20 A 24
+2024,Colisión entre vehículos,Limón,Pococí,247,Motociclista,Hombre,25,00-06,7.Sábado,D. Abril,25 A 29
+2024,Colisión entre vehículos,Alajuela,San Carlos,140,Motociclista,Hombre,48,06-12,7.Sábado,D. Abril,45 A 49
+2024,Atropello a persona,Puntarenas,Puntarenas,Cantonal o desconocida,Conductor,Hombre,40,18-24,7.Sábado,D. Abril,40 A 44
+2024,Atropello a persona,Guanacaste,santa cruz,910,Peatón,Hombre,85,12-18,1.Domingo,D. Abril,75+
+2024,Colisión entre vehículos,Limón,Limón,234,Motociclista,Hombre,29,18-24,1.Domingo,D. Abril,25 A 29
+2024,Atropello a persona,Puntarenas,Parrita,34,Peatón,Hombre,60,00-06,1.Domingo,D. Abril,60 A 64
+2024,Atropello a persona,Puntarenas,Buenos Aires,2,Peatón,Hombre,48,12-18,2.Lunes,D. Abril,45 A 49
+2024,Colisión con objeto fijo,San José,Montes de Oca,Cantonal o desconocida,Motociclista,Hombre,34,18-24,2.Lunes,D. Abril,30 A 34
+2024,Salió de la vía,Puntarenas,Garabito,34,Conductor,Hombre,57,00-06,3.Martes,D. Abril,55 A 59
+2024,Colisión con bicicleta,Limón,Limón,234,Ciclista,Hombre,55,00-06,3.Martes,D. Abril,55 A 59
+2024,Colisión entre vehículos,San José,Dota,2,Motociclista,Hombre,18,06-12,3.Martes,D. Abril,15 A 19
+2024,Colisión entre vehículos,Limón,limón,36,Motociclista,Hombre,21,18-24,3.Martes,D. Abril,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Osa,245,Pasajero moto,Hombre,30,12-18,6.Viernes,D. Abril,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Motociclista,Hombre,21,18-24,6.Viernes,D. Abril,20 A 24
+2024,Atropello a persona,Alajuela,Guatuso,4,Peatón,Hombre,37,18-24,6.Viernes,D. Abril,35 A 39
+2024,Salió de la vía,Puntarenas,Buenos Aires,2,Pasajero moto,Hombre,Desconocida,00-06,1.Domingo,D. Abril,Desconocida
+2024,Salió de la vía,Limón,Siquirres,415,Motociclista,Hombre,48,12-18,1.Domingo,D. Abril,45 A 49
+2024,Colisión entre vehículos,Cartago,Cartago,2,Motociclista,Hombre,36,06-12,4.Miércoles,D. Abril,35 A 39
+2024,Atropello a persona,Puntarenas,Garabito,34,Peatón,Hombre,Desconocida,18-24,4.Miércoles,D. Abril,Desconocida
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,27,00-06,5.Jueves,D. Abril,25 A 29
+2024,Atropello a persona,Guanacaste,Carrillo,21,Peatón,Desconocido,33,00-06,7.Sábado,D. Abril,30 A 34
+2024,Salió de la vía,Alajuela,Zarcero,141,Motociclista,Hombre,22,12-18,7.Sábado,D. Abril,20 A 24
+2024,Colisión entre vehículos,Guanacaste,Bagaces,1,Motociclista,Hombre,29,12-18,7.Sábado,D. Abril,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Carrillo,153,Motociclista,Hombre,39,00-06,1.Domingo,D. Abril,35 A 39
+2024,Colisión con bicicleta,Alajuela,Alajuela,126,Ciclista,Hombre,16,12-18,1.Domingo,D. Abril,15 A 19
+2024,Salió de la vía,San José,Aserrí,313,Motociclista,Hombre,22,12-18,1.Domingo,D. Abril,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,Desconocida,12-18,3.Martes,D. Abril,Desconocida
+2024,Salió de la vía,Puntarenas,Buenos Aires,Cantonal o desconocida,Motociclista,Hombre,25,06-12,3.Martes,D. Abril,25 A 29
+2024,Colisión entre vehículos,Alajuela,Orotina,27,Pasajero bus,Mujer,55,12-18,4.Miércoles,E. Mayo,55 A 59
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,Desconocida,18-24,4.Miércoles,E. Mayo,Desconocida
+2024,Atropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,29,00-06,7.Sábado,E. Mayo,25 A 29
+2024,Atropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,Desconocida,00-06,7.Sábado,E. Mayo,Desconocida
+2024,Salió de la vía,Limón,Siquirres,32,Motociclista,Hombre,60,00-06,7.Sábado,E. Mayo,60 A 64
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,36,12-18,7.Sábado,E. Mayo,35 A 39
+2024,Colisión entre vehículos,Alajuela,Río Cuarto,744,Motociclista,Hombre,36,12-18,1.Domingo,E. Mayo,35 A 39
+2024,Salió de la vía,San José,San José,1,Motociclista,Hombre,72,12-18,4.Miércoles,E. Mayo,70 A 74
+2024,Salió de la vía,Puntarenas,Osa,34,Pasajero carro,Mujer,23,00-06,6.Viernes,E. Mayo,20 A 24
+2024,Salió de la vía,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,29,18-24,6.Viernes,E. Mayo,25 A 29
+2024,Colisión con objeto fijo,San José,Moravia,Cantonal o desconocida,Pasajero carro,Hombre,Desconocida,00-06,7.Sábado,E. Mayo,Desconocida
+2024,Colisión entre vehículos,Guanacaste,Liberia,21,Motociclista,Desconocido,27,00-06,7.Sábado,E. Mayo,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Motociclista,Hombre,27,18-24,7.Sábado,E. Mayo,25 A 29
+2024,Salió de la vía,Limón,Pococí,810,Motociclista,Hombre,48,00-06,1.Domingo,E. Mayo,45 A 49
+2024,Colisión entre vehículos,Alajuela,Grecia,107,Conductor,Hombre,22,00-06,1.Domingo,E. Mayo,20 A 24
+2024,Colisión entre vehículos,Limón,Pococí,32,Motociclista,Hombre,25,18-24,1.Domingo,E. Mayo,25 A 29
+2024,Atropello a persona,Heredia,Heredia,1,Peatón,Hombre,38,18-24,1.Domingo,E. Mayo,35 A 39
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,2,Motociclista,Hombre,17,18-24,1.Domingo,E. Mayo,15 A 19
+2024,Salió de la vía,Guanacaste,Bagaces,Cantonal o desconocida,Pasajero moto,Hombre,12,12-18,2.Lunes,E. Mayo,10 A 14
+2024,Colisión entre vehículos,San José,Moravia,Cantonal o desconocida,Motociclista,Hombre,18,18-24,4.Miércoles,E. Mayo,15 A 19
+2024,Salió de la vía,Cartago,La Unión,2,Motociclista,Hombre,56,18-24,4.Miércoles,E. Mayo,55 A 59
+2024,Salió de la vía,Puntarenas,Puntarenas,160,Motociclista,Hombre,36,18-24,6.Viernes,E. Mayo,35 A 39
+2024,Salió de la vía,Puntarenas,Osa,34,Motociclista,Desconocido,30,00-06,7.Sábado,E. Mayo,30 A 34
+2024,Salió de la vía,Heredia,Heredia,1,Pasajero moto,Mujer,30,06-12,7.Sábado,E. Mayo,30 A 34
+2024,Colisión entre vehículos,Limón,pococí,32,Conductor,Hombre,Desconocida,06-12,7.Sábado,E. Mayo,Desconocida
+2024,Colisión entre vehículos,Limón,Pococí,32,Pasajero carro,Mujer,Desconocida,06-12,7.Sábado,E. Mayo,Desconocida
+2024,Colisión con bicicleta,Alajuela,San Carlos,Cantonal o desconocida,Ciclista,Hombre,61,00-06,7.Sábado,E. Mayo,60 A 64
+2024,Colisión entre vehículos,Guanacaste,Nicoya,150,Motociclista,Hombre,24,06-12,1.Domingo,E. Mayo,20 A 24
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Conductor,Hombre,19,06-12,3.Martes,E. Mayo,15 A 19
+2024,Atropello a persona,Heredia,Sarapiquí,4,Peatón,Hombre,48,18-24,3.Martes,E. Mayo,45 A 49
+2024,Colisión con objeto fijo,Limón,Siquirres,806,Motociclista,Hombre,35,00-06,4.Miércoles,E. Mayo,35 A 39
+2024,Salió de la vía,Alajuela,San Carlos,250,Motociclista,Hombre,26,00-06,4.Miércoles,E. Mayo,25 A 29
+2024,Colisión entre vehículos,Alajuela,Alajuela,124,Motociclista,Hombre,39,00-06,5.Jueves,E. Mayo,35 A 39
+2024,Colisión con objeto fijo,Alajuela,Alajuela,Cantonal o desconocida,Motociclista,Hombre,28,00-06,5.Jueves,E. Mayo,25 A 29
+2024,Colisión entre vehículos,Guanacaste,Liberia,Cantonal o desconocida,Motociclista,Hombre,38,12-18,6.Viernes,E. Mayo,35 A 39
+2024,Colisión entre vehículos,Heredia,Sarapiquí,4,Motociclista,Hombre,54,18-24,7.Sábado,E. Mayo,50 A 54
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,Desconocida,18-24,7.Sábado,E. Mayo,Desconocida
+2024,Colisión entre vehículos,Alajuela,San Carlos,35,Motociclista,Hombre,24,18-24,7.Sábado,E. Mayo,20 A 24
+2024,Salió de la vía,Cartago,Oreamuno,219,Motociclista,Hombre,24,12-18,1.Domingo,E. Mayo,20 A 24
+2024,Atropello a persona,San José,San José,27,Peatón,Hombre,34,18-24,2.Lunes,E. Mayo,30 A 34
+2024,Colisión entre vehículos,Puntarenas,Corredores,608,Motociclista,Hombre,31,18-24,5.Jueves,E. Mayo,30 A 34
+2024,Colisión entre vehículos,Limón,Siquirres,32,Conductor,Hombre,22,12-18,6.Viernes,E. Mayo,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,21,Motociclista,Hombre,27,18-24,6.Viernes,E. Mayo,25 A 29
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,29,18-24,7.Sábado,F. Junio,25 A 29
+2024,Colisión con bicicleta,San José,Santa Ana,Cantonal o desconocida,Ciclista,Hombre,29,00-06,1.Domingo,F. Junio,25 A 29
+2024,Colisión entre vehículos,Limón,Siquirres,32,Pasajero carro,Mujer,15,00-06,1.Domingo,F. Junio,15 A 19
+2024,Salió de la vía,San José,San José,39,Conductor,Hombre,39,00-06,1.Domingo,F. Junio,35 A 39
+2024,Salió de la vía,Puntarenas,Osa,Cantonal o desconocida,Motociclista,Hombre,29,06-12,2.Lunes,F. Junio,25 A 29
+2024,Atropello a persona,Alajuela,San Carlos,250,Peatón,Desconocido,26,18-24,2.Lunes,F. Junio,25 A 29
+2024,Colisión con bicicleta,Puntarenas,Puntarenas,17,Ciclista,Hombre,55,12-18,5.Jueves,F. Junio,55 A 59
+2024,Colisión con objeto fijo,Guanacaste,santa cruz,Cantonal o desconocida,Pasajero carro,Hombre,Desconocida,06-12,7.Sábado,F. Junio,Desconocida
+2024,Colisión entre vehículos,Limón,Talamanca,36,Motociclista,Hombre,33,00-06,7.Sábado,F. Junio,30 A 34
+2024,Salió de la vía,Alajuela,Sarchí,Cantonal o desconocida,Motociclista,Hombre,20,00-06,1.Domingo,F. Junio,20 A 24
+2024,Colisión con bicicleta,San José,San José,39,Ciclista,Hombre,53,00-06,1.Domingo,F. Junio,50 A 54
+2024,Salió de la vía,Puntarenas,Osa,2,Pasajero carro,Mujer,38,12-18,1.Domingo,F. Junio,35 A 39
+2024,Salió de la vía,Cartago,Paraíso,Cantonal o desconocida,Motociclista,Mujer,46,12-18,1.Domingo,F. Junio,45 A 49
+2024,Colisión entre vehículos,Puntarenas,Corredores,Cantonal o desconocida,Pasajero carro,Hombre,35,18-24,3.Martes,F. Junio,35 A 39
+2024,Colisión entre vehículos,Alajuela,Upala,4,Motociclista,Hombre,44,00-06,4.Miércoles,F. Junio,40 A 44
+2024,Atropello a persona,San José,Tibás,39,Peatón,Hombre,23,18-24,4.Miércoles,F. Junio,20 A 24
+2024,Colisión entre vehículos,Alajuela,San Carlos,142,Motociclista,Hombre,27,18-24,6.Viernes,F. Junio,25 A 29
+2024,Colisión entre vehículos,Cartago,Cartago,10,Motociclista,Hombre,30,00-06,7.Sábado,F. Junio,30 A 34
+2024,Atropello a persona,Cartago,El Guarco,Cantonal o desconocida,Peatón,Mujer,81,06-12,7.Sábado,F. Junio,75+
+2024,Colisión entre vehículos,Guanacaste,santa cruz,933,Motociclista,Hombre,26,18-24,7.Sábado,F. Junio,25 A 29
+2024,Colisión entre vehículos,Alajuela,San Carlos,250,Motociclista,Mujer,17,12-18,7.Sábado,F. Junio,15 A 19
+2024,Colisión entre vehículos,San José,Vázquez de Coronado,32,Conductor,Hombre,46,18-24,7.Sábado,F. Junio,45 A 49
+2024,Colisión entre vehículos,Limón,Guácimo,Cantonal o desconocida,Motociclista,Hombre,44,18-24,7.Sábado,F. Junio,40 A 44
+2024,Colisión con bicicleta,Limón,Siquirres,806,Ciclista,Hombre,62,06-12,1.Domingo,F. Junio,60 A 64
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Conductor,Hombre,30,18-24,3.Martes,F. Junio,30 A 34
+2024,Atropello a persona,Cartago,La Unión,2,Peatón,Hombre,30,18-24,3.Martes,F. Junio,30 A 34
+2024,Atropello a persona,Puntarenas,Puntarenas,Cantonal o desconocida,Peatón,Hombre,Desconocida,18-24,5.Jueves,F. Junio,Desconocida
+2024,Colisión con bicicleta,Limón,Talamanca,36,Ciclista,Hombre,Desconocida,18-24,5.Jueves,F. Junio,Desconocida
+2024,Salió de la vía,San José,Pérez Zeledón,2,Pasajero carro,Hombre,19,00-06,7.Sábado,F. Junio,15 A 19
+2024,Colisión con bicicleta,Limón,Siquirres,32,Ciclista,Hombre,54,18-24,7.Sábado,F. Junio,50 A 54
+2024,Colisión con bicicleta,Puntarenas,Quepos,34,Ciclista,Hombre,67,18-24,7.Sábado,F. Junio,65 A 69
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Hombre,29,12-18,1.Domingo,F. Junio,25 A 29
+2024,Colisión con bicicleta,Alajuela,Alajuela,Cantonal o desconocida,Ciclista,Hombre,42,12-18,2.Lunes,G. Julio,40 A 44
+2024,Salió de la vía,Puntarenas,Coto Brus,Cantonal o desconocida,Pasajero moto,Mujer,19,00-06,3.Martes,G. Julio,15 A 19
+2024,Salió de la vía,Alajuela,Alajuela,Cantonal o desconocida,Motociclista,Hombre,24,00-06,3.Martes,G. Julio,20 A 24
+2024,Colisión entre vehículos,Alajuela,San Ramón,1,Conductor,Hombre,Desconocida,00-06,5.Jueves,G. Julio,Desconocida
+2024,Colisión entre vehículos,San José,Vázquez de Coronado,32,Conductor,Hombre,37,18-24,5.Jueves,G. Julio,35 A 39
+2024,Colisión entre vehículos,Heredia,Sarapiquí,Cantonal o desconocida,Motociclista,Mujer,26,06-12,6.Viernes,G. Julio,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Coto Brus,Cantonal o desconocida,Motociclista,Hombre,28,18-24,7.Sábado,G. Julio,25 A 29
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Desconocido,Desconocida,06-12,3.Martes,G. Julio,Desconocida
+2024,Colisión entre vehículos,Guanacaste,Liberia,21,Motociclista,Hombre,27,06-12,2.Lunes,G. Julio,25 A 29
+2024,Salió de la vía,San José,Escazú,105,Motociclista,Hombre,26,12-18,3.Martes,G. Julio,25 A 29
+2024,Salió de la vía,Guanacaste,Liberia,1,Conductor,Hombre,69,06-12,4.Miércoles,G. Julio,65 A 69
+2024,Atropello a persona,Cartago,Cartago,Cantonal o desconocida,Peatón,Hombre,76,06-12,5.Jueves,G. Julio,75+
+2024,Colisión entre vehículos,Alajuela,alajuela,Cantonal o desconocida,Pasajero moto,Hombre,44,06-12,6.Viernes,G. Julio,40 A 44
+2024,Colisión entre vehículos,Alajuela,Atenas,27,Motociclista,Hombre,22,00-06,7.Sábado,G. Julio,20 A 24
+2024,Salió de la vía,Puntarenas,Osa,34,Conductor,Hombre,50,00-06,7.Sábado,G. Julio,50 A 54
+2024,Colisión con bicicleta,Limón,Pococí,32,Ciclista,Desconocido,Desconocida,06-12,7.Sábado,G. Julio,Desconocida
+2024,Salió de la vía,Guanacaste,Bagaces,933,Motociclista,Hombre,64,18-24,7.Sábado,G. Julio,60 A 64
+2024,Salió de la vía,San José,Pérez Zeledón,244,Motociclista,Mujer,23,18-24,4.Miércoles,G. Julio,20 A 24
+2024,Atropello a persona,San José,San José,39,Peatón,Desconocido,Desconocida,18-24,5.Jueves,G. Julio,Desconocida
+2024,Caída de algún ocupante,San José,Tibás,39,Motociclista,Hombre,21,06-12,7.Sábado,G. Julio,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,2,Conductor,Hombre,19,12-18,7.Sábado,G. Julio,15 A 19
+2024,Salió de la vía,Alajuela,San Ramón,742,Motociclista,Hombre,34,00-06,1.Domingo,G. Julio,30 A 34
+2024,Salió de la vía,Puntarenas,Golfito,Cantonal o desconocida,Motociclista,Hombre,36,18-24,1.Domingo,G. Julio,35 A 39
+2024,Colisión entre vehículos,Alajuela,San Carlos,141,Motociclista,Hombre,57,18-24,2.Lunes,G. Julio,55 A 59
+2024,Otros,Heredia,Heredia,3,Motociclista,Hombre,45,06-12,5.Jueves,G. Julio,45 A 49
+2024,Colisión contra Semoviente,Alajuela,San Carlos,4,Motociclista,Hombre,29,18-24,5.Jueves,G. Julio,25 A 29
+2024,Salió de la vía,Guanacaste,Abangares,18,Motociclista,Hombre,62,00-06,6.Viernes,G. Julio,60 A 64
+2024,Colisión entre vehículos,Limón,Talamanca,36,Motociclista,Mujer,14,12-18,6.Viernes,G. Julio,10 A 14
+2024,Salió de la vía,Alajuela,San Ramón,742,Motociclista,Hombre,34,00-06,1.Domingo,G. Julio,30 A 34
+2024,Colisión entre vehículos,Guanacaste,Liberia,1,Pasajero moto,Mujer,44,12-18,7.Sábado,G. Julio,40 A 44
+2024,ATropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,Desconocida,06-12,3.Martes,G. Julio,Desconocida
+2024,Colisión con objeto fijo,San José,San José,Cantonal o desconocida,Pasajero carro,Mujer,38,18-24,3.Martes,G. Julio,35 A 39
+2024,Colisión entre vehículos,Limón,limón,36,Motociclista,Hombre,32,06-12,5.Jueves,G. Julio,30 A 34
+2024,Atropello a persona,Cartago,Cartago,Cantonal o desconocida,Conductor,Hombre,Desconocida,18-24,5.Jueves,H. Agosto,Desconocida
+2024,Colisión con objeto fijo,San José,Moravia,Cantonal o desconocida,Motociclista,Hombre,36,06-12,7.Sábado,H. Agosto,35 A 39
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Motociclista,Hombre,31,00-06,1.Domingo,H. Agosto,30 A 34
+2024,Salió de la vía,Guanacaste,Cañas,cantonal o desconocida,Motociclista,Hombre,30,00-06,4.Miércoles,H. Agosto,30 A 34
+2024,Colisión contra Semoviente,Alajuela,Guatuso,4,Motociclista,Hombre,29,18-24,3.Martes,H. Agosto,25 A 29
+2024,Colisión con objeto fijo,Limón,Pococí,Cantonal o desconocida,Ciclista,Hombre,44,06-12,4.Miércoles,H. Agosto,40 A 44
+2024,Colisión entre vehículos,Alajuela,San Carlos,250,Motociclista,Hombre,29,18-24,5.Jueves,H. Agosto,25 A 29
+2024,Caída de algún ocupante,Alajuela,Orotina,27,Conductor,Hombre,30,00-06,1.Domingo,H. Agosto,30 A 34
+2024,Caída de algún ocupante,Alajuela,Orotina,27,Pasajero carro,Mujer,25,00-06,1.Domingo,H. Agosto,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Buenos Aires,246,Motociclista,Mujer,26,18-24,2.Lunes,H. Agosto,25 A 29
+2024,Salió de la vía,Heredia,Sarapiquí,4,Conductor,Hombre,34,18-24,4.Miércoles,H. Agosto,30 A 34
+2024,Colisión entre vehículos,Alajuela,Sarchí,708,Motociclista,Hombre,20,00-06,5.Jueves,H. Agosto,20 A 24
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,39,12-18,6.Viernes,H. Agosto,35 A 39
+2024,Salió de la vía,Puntarenas,Corredores,2,Conductor,Hombre,44,00-06,1.Domingo,H. Agosto,40 A 44
+2024,Vuelco,Puntarenas,Puntarenas,1,Pasajero carro,Hombre,14,00-06,1.Domingo,H. Agosto,10 A 14
+2024,Salió de la vía,Puntarenas,Quepos,34,Motociclista,Hombre,43,06-12,1.Domingo,H. Agosto,40 A 44
+2024,Salió de la vía,Alajuela,San Carlos,142,Conductor,Hombre,28,00-06,3.Martes,H. Agosto,25 A 29
+2024,Salió de la vía,Puntarenas,Garabito,34,Conductor,Hombre,64,12-18,3.Martes,H. Agosto,60 A 64
+2024,Salió de la vía,Puntarenas,Garabito,34,Pasajero carro,Hombre,57,12-18,3.Martes,H. Agosto,55 A 59
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Motociclista,Hombre,24,12-18,3.Martes,H. Agosto,20 A 24
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Conductor,Mujer,27,18-24,3.Martes,H. Agosto,25 A 29
+2024,Colisión con bicicleta,Heredia,Flores,3,Ciclista,Mujer,34,00-06,5.Jueves,H. Agosto,30 A 34
+2024,Colisión con bicicleta,Puntarenas,Osa,2,Ciclista,Hombre,27,12-18,5.Jueves,H. Agosto,25 A 29
+2024,Salió de la vía,Guanacaste,Liberia,1,Pasajero carro,Hombre,Desconocida,12-18,6.Viernes,H. Agosto,Desconocida
+2024,Salió de la vía,Alajuela,Upala,6,Conductor,Hombre,25,12-18,7.Sábado,H. Agosto,25 A 29
+2024,Colisión entre vehículos,Limón,limón,36,Motociclista,Hombre,31,00-06,1.Domingo,H. Agosto,30 A 34
+2024,Colisión con bicicleta,San José,Desamparados,209,Ciclista,Hombre,16,12-18,3.Martes,H. Agosto,15 A 19
+2024,Colisión entre vehículos,Alajuela,Orotina,27,Conductor,Hombre,49,00-06,4.Miércoles,H. Agosto,45 A 49
+2024,Salió de la vía,Puntarenas,Puntarenas,Cantonal o desconocida,Motociclista,Hombre,30,00-06,4.Miércoles,H. Agosto,30 A 34
+2024,Colisión entre vehículos,Alajuela,Alajuela,cantonal o desconocida,Motociclista,Hombre,19,00-06,5.Jueves,H. Agosto,15 A 19
+2024,Salió de la vía,Limón,Siquirres,812,Motociclista,Hombre,23,12-18,4.Miércoles,H. Agosto,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Motociclista,Hombre,24,06-12,6.Viernes,H. Agosto,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,160,Motociclista,Hombre,40,12-18,6.Viernes,H. Agosto,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Motociclista,Hombre,Desconocida,18-24,6.Viernes,H. Agosto,Desconocida
+2024,Colisión entre vehículos,Alajuela,San Ramón,1,Motociclista,Hombre,44,06-12,2.Lunes,I. Setiembre,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Coto Brus,Cantonal o desconocida,Pasajero moto,Mujer,39,12-18,2.Lunes,I. Setiembre,35 A 39
+2024,Atropello a persona,Guanacaste,santa cruz,504,Peatón,Hombre,62,18-24,2.Lunes,I. Setiembre,60 A 64
+2024,Colisión entre vehículos,Heredia,Heredia,1,Ciclista,Hombre,37,00-06,3.Martes,I. Setiembre,35 A 39
+2024,Salió de la vía,San José,Escazú,167,Motociclista,Hombre,37,12-18,3.Martes,I. Setiembre,35 A 39
+2024,Colisión con bicicleta,Limón,Talamanca,256,Ciclista,Hombre,27,00-06,5.Jueves,I. Setiembre,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Osa,2,Motociclista,Hombre,62,12-18,6.Viernes,I. Setiembre,60 A 64
+2024,Atropello a persona,Guanacaste,Nicoya,21,Peatón,Hombre,69,18-24,6.Viernes,I. Setiembre,65 A 69
+2024,Atropello a persona,Puntarenas,Garabito,34,Peatón,Hombre,34,00-06,1.Domingo,I. Setiembre,30 A 34
+2024,Salió de la vía,Alajuela,Upala,Cantonal o desconocida,Motociclista,Hombre,46,00-06,1.Domingo,I. Setiembre,45 A 49
+2024,Salió de la vía,Alajuela,San Carlos,141,Pasajero carro,Mujer,30,06-12,1.Domingo,I. Setiembre,30 A 34
+2024,Colisión entre vehículos,Alajuela,Upala,4,Motociclista,Mujer,Desconocida,06-12,1.Domingo,I. Setiembre,Desconocida
+2024,Colisión entre vehículos,Cartago,Paraíso,224,Motociclista,Mujer,22,18-24,1.Domingo,I. Setiembre,20 A 24
+2024,Colisión con objeto fijo,San José,Montes de Oca,2,Motociclista,Hombre,21,18-24,1.Domingo,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Puntarenas,614,Motociclista,Hombre,Desconocida,00-06,2.Lunes,I. Setiembre,Desconocida
+2024,Colisión entre vehículos,Alajuela,Alajuela,1,Motociclista,Hombre,22,18-24,3.Martes,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Alajuela,Orotina,3,Motociclista,Hombre,20,06-12,5.Jueves,I. Setiembre,20 A 24
+2024,Salió de la vía,San José,Pérez Zeledón,Cantonal o desconocida,Conductor,Mujer,34,12-18,5.Jueves,I. Setiembre,30 A 34
+2024,Colisión entre vehículos,Cartago,Paraíso,Cantonal o desconocida,Pasajero moto,Hombre,26,18-24,6.Viernes,I. Setiembre,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Pasajero moto,Mujer,36,00-06,7.Sábado,I. Setiembre,35 A 39
+2024,Colisión con objeto fijo,Cartago,Cartago,2,Conductor,Hombre,25,00-06,7.Sábado,I. Setiembre,25 A 29
+2024,Colisión entre vehículos,Puntarenas,Esparza,23,Conductor,Hombre,43,12-18,7.Sábado,I. Setiembre,40 A 44
+2024,Colisión con objeto fijo,San José,San José,Cantonal o desconocida,Ciclista,Hombre,59,00-06,1.Domingo,I. Setiembre,55 A 59
+2024,Colisión entre vehículos,Limón,Pococí,247,Motociclista,Hombre,39,06-12,1.Domingo,I. Setiembre,35 A 39
+2024,Colisión entre vehículos,Guanacaste,Carrillo,912,Motociclista,Hombre,63,18-24,2.Lunes,I. Setiembre,60 A 64
+2024,Colisión con bicicleta,Puntarenas,OSA,2,Ciclista,Hombre,33,18-24,2.Lunes,I. Setiembre,30 A 34
+2024,Atropello a persona,Limón,Pococí,32,Peatón,Hombre,38,00-06,3.Martes,I. Setiembre,35 A 39
+2024,Atropello a persona,San José,Pérez Zeledón,2,Peatón,Hombre,66,18-24,3.Martes,I. Setiembre,65 A 69
+2024,Vuelco,Alajuela,San Carlos,142,Motociclista,Hombre,19,00-06,4.Miércoles,I. Setiembre,15 A 19
+2024,Colisión con bicicleta,Limón,Matina,32,Ciclista,Hombre,37,00-06,4.Miércoles,I. Setiembre,35 A 39
+2024,Colisión entre vehículos,San José,Santa Ana,121,Motociclista,Hombre,27,06-12,4.Miércoles,I. Setiembre,25 A 29
+2024,Atropello a persona,Limón,Pococí,247,Ciclista,Hombre,44,18-24,4.Miércoles,I. Setiembre,40 A 44
+2024,Colisión con bicicleta,Guanacaste,Nicoya,21,Pasajero bicicleta,Mujer,22,18-24,4.Miércoles,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Alajuela,Alajuela,1,Motociclista,Hombre,44,00-06,5.Jueves,I. Setiembre,40 A 44
+2024,Colisión entre vehículos,Heredia,Heredia,1,Motociclista,Hombre,28,18-24,5.Jueves,I. Setiembre,25 A 29
+2024,Atropello a persona,Heredia,Sarapiquí,229,Ciclista,Hombre,43,00-06,7.Sábado,I. Setiembre,40 A 44
+2024,Colisión entre vehículos,Heredia,sarapiquí,4,Motociclista,Hombre,50,00-06,7.Sábado,I. Setiembre,50 A 54
+2024,Colisión con bicicleta,San José,Desamparados,2,Ciclista,Hombre,33,06-12,7.Sábado,I. Setiembre,30 A 34
+2024,Colisión con bicicleta,Alajuela,San Carlos,250,Ciclista,Hombre,42,12-18,7.Sábado,I. Setiembre,40 A 44
+2024,Colisión con bicicleta,Limón,Pococí,Cantonal o desconocida,Ciclista,Hombre,67,18-24,7.Sábado,I. Setiembre,65 A 69
+2024,Salió de la vía,Heredia,Sarapiquí,Cantonal o desconocida,Ciclista,Hombre,25,00-06,7.Sábado,I. Setiembre,25 A 29
+2024,Salió de la vía,Puntarenas,Corredores,238,Pasajero carro,Hombre,37,06-12,1.Domingo,I. Setiembre,35 A 39
+2024,Colisión entre vehículos,Puntarenas,Coto Brus,613,Motociclista,Hombre,40,12-18,1.Domingo,I. Setiembre,40 A 44
+2024,ATropello a persona,San José,Tibás,102,Peatón,Mujer,52,18-24,1.Domingo,I. Setiembre,50 A 54
+2024,Colisión con objeto fijo,Alajuela,Río Cuarto,4,Conductor,Hombre,63,18-24,1.Domingo,I. Setiembre,60 A 64
+2024,ATropello a persona,Heredia,Belén,1,Peatón,Hombre,48,06-12,2.Lunes,I. Setiembre,45 A 49
+2024,ATropello a persona,San José,Pérez Zeledón,2,Peatón,Mujer,78,06-12,4.Miércoles,I. Setiembre,75+
+2024,Colisión entre vehículos,Guanacaste,Liberia,Cantonal o desconocida,Pasajero moto,Hombre,45,12-18,5.Jueves,I. Setiembre,45 A 49
+2024,ATropello a persona,Alajuela,Grecia,Cantonal o desconocida,Peatón,Hombre,64,18-24,6.Viernes,I. Setiembre,60 A 64
+2024,Colisión entre vehículos,Alajuela,Orotina,27,Pasajero moto,Mujer,34,00-06,7.Sábado,I. Setiembre,30 A 34
+2024,Colisión con bicicleta,Limón,Siquirres,806,Motociclista,Mujer,24,00-06,7.Sábado,I. Setiembre,20 A 24
+2024,ATropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,20,00-06,1.Domingo,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Limón,Pococí,247,Motociclista,Hombre,18,12-18,1.Domingo,I. Setiembre,15 A 19
+2024,Colisión entre vehículos,Limón,Pococí,Cantonal o desconocida,Motociclista,Hombre,26,18-24,1.Domingo,I. Setiembre,25 A 29
+2024,Colisión entre vehículos,Limón,Pococí,Cantonal o desconocida,Motociclista,Hombre,21,18-24,1.Domingo,I. Setiembre,20 A 24
+2024,Colisión entre vehículos,Guanacaste,Santa Cruz,152,Motociclista,Hombre,27,18-24,3.Martes,J. Octubre,25 A 29
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,40,12-18,4.Miércoles,J. Octubre,40 A 44
+2024,Salió de la vía,Puntarenas,Buenos Aires,2,Conductor,Hombre,31,00-06,5.Jueves,J. Octubre,30 A 34
+2024,Atropello a persona,Alajuela,Alajuela,Cantonal o desconocida,Peatón,Hombre,44,06-12,5.Jueves,J. Octubre,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Montes de Oro,1,Pasajero moto,Hombre,27,18-24,5.Jueves,J. Octubre,25 A 29
+2024,Atropello a persona,Limón,Siquirres,Cantonal o desconocida,Peatón,Hombre,21,00-06,6.Viernes,J. Octubre,20 A 24
+2024,Colisión entre vehículos,Alajuela,Alajuela,27,Conductor,Hombre,40,12-18,6.Viernes,J. Octubre,40 A 44
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,48,18-24,7.Sábado,J. Octubre,45 A 49
+2024,Colisión entre vehículos,Alajuela,Los Chiles,35,Motociclista,Hombre,20,18-24,7.Sábado,J. Octubre,20 A 24
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,24,00-06,2.Lunes,J. Octubre,20 A 24
+2024,Salió de la vía,Alajuela,Zarcero,141,Conductor,Mujer,54,06-12,3.Martes,J. Octubre,50 A 54
+2024,Caída de algún ocupante,San José,San José,Cantonal o desconocida,Conductor,Hombre,19,12-18,3.Martes,J. Octubre,15 A 19
+2024,Atropello a persona,Puntarenas,Quepos,Cantonal o desconocida,Peatón,Hombre,52,00-06,4.Miércoles,J. Octubre,50 A 54
+2024,Atropello a persona,Puntarenas,Esparza,27,Peatón,Hombre,40,18-24,4.Miércoles,J. Octubre,40 A 44
+2024,Colisión entre vehículos,Alajuela,Atenas,135,Motociclista,Hombre,20,06-12,6.Viernes,J. Octubre,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Garabito,34,Motociclista,Hombre,57,18-24,6.Viernes,J. Octubre,55 A 59
+2024,Caída de algún ocupante,San José,Desamparados,Cantonal o desconocida,Otro,Hombre,31,00-06,6.Viernes,J. Octubre,30 A 34
+2024,Atropello a persona,San José,Escazú,27,Peatón,Hombre,30,00-06,7.Sábado,J. Octubre,30 A 34
+2024,Atropello a persona,Limón,Siquirres,32,Ciclista,Hombre,24,00-06,1.Domingo,J. Octubre,20 A 24
+2024,Atropello a persona,Guanacaste,Liberia,917,Motociclista,Hombre,19,12-18,3.Martes,J. Octubre,15 A 19
+2024,Colisión entre vehículos,Heredia,Heredia,1,Motociclista,Hombre,Desconocida,18-24,3.Martes,J. Octubre,Desconocida
+2024,Colisión con bicicleta,Guanacaste,Abangares,1,Ciclista,Hombre,30,06-12,4.Miércoles,J. Octubre,30 A 34
+2024,Colisión entre vehículos,Cartago,La Unión,2,Conductor,Hombre,Desconocida,00-06,6.Viernes,J. Octubre,Desconocida
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Pasajero carro,Mujer,36,06-12,7.Sábado,J. Octubre,35 A 39
+2024,Colisión entre vehículos,Limón,Pococí,810,Motociclista,Hombre,42,18-24,7.Sábado,J. Octubre,40 A 44
+2024,Colisión entre vehículos,Puntarenas,Corredores,Cantonal o desconocida,Motociclista,Hombre,21,18-24,7.Sábado,J. Octubre,20 A 24
+2024,Atropello a persona,Puntarenas,Garabito,34,Peatón,Hombre,28,18-24,1.Domingo,J. Octubre,25 A 29
+2024,Colisión con objeto fijo,Guanacaste,Carrillo,151,Motociclista,Hombre,20,18-24,1.Domingo,J. Octubre,20 A 24
+2024,Colisión entre vehículos,Alajuela,Grecia,717,Motociclista,Hombre,22,06-12,2.Lunes,J. Octubre,20 A 24
+2024,Colisión con bicicleta,Limón,Pococí,249,Ciclista,Hombre,76,06-12,3.Martes,J. Octubre,75+
+2024,Colisión entre vehículos,Limón,Limón,36,Motociclista,Hombre,16,12-18,4.Miércoles,J. Octubre,15 A 19
+2024,Colisión con objeto fijo,Guanacaste,Bagaces,164,Motociclista,Hombre,29,18-24,5.Jueves,J. Octubre,25 A 29
+2024,Vuelco,Limón,Pococí,32,Conductor,Hombre,19,18-24,5.Jueves,J. Octubre,15 A 19
+2024,Colisión entre vehículos,Alajuela,San Carlos,140,Motociclista,Hombre,22,12-18,5.Jueves,J. Octubre,20 A 24
+2024,Salió de la vía,Guanacaste,Santa Cruz,155,Pasajero carro,Hombre,29,12-18,7.Sábado,J. Octubre,25 A 29
+2024,Colisión entre vehículos,Limón,Pococí,247,Motociclista,Hombre,25,12-18,7.Sábado,J. Octubre,25 A 29
+2024,Colisión con objeto fijo,Puntarenas,Puntarenas,132,Conductor,Hombre,44,00-06,1.Domingo,J. Octubre,40 A 44
+2024,Vuelco,Alajuela,San Carlos,Cantonal o desconocida,Motociclista,Hombre,Desconocida,00-06,1.Domingo,J. Octubre,Desconocida
+2024,Colisión entre vehículos,Limón,Talamanca,36,Motociclista,Hombre,34,00-06,3.Martes,J. Octubre,30 A 34
+2024,Caída de algún ocupante,Alajuela,Naranjo,1,Motociclista,Hombre,28,12-18,3.Martes,J. Octubre,25 A 29
+2024,Colisión entre vehículos,San José,San José,214,Motociclista,Hombre,19,12-18,5.Jueves,J. Octubre,15 A 19
+2024,Caída de algún ocupante,Limón,Pococí,247,Pasajero moto,Mujer,37,18-24,6.Viernes,K. Noviembre,35 A 39
+2024,Colisión entre vehículos,Guanacaste,Nicoya,Cantonal o desconocida,Motociclista,Hombre,22,00-06,7.Sábado,K. Noviembre,20 A 24
+2024,Colisión entre vehículos,Limón,Matina,Cantonal o desconocida,Ciclista,Hombre,Desconocida,18-24,7.Sábado,K. Noviembre,Desconocida
+2024,Colisión con objeto fijo,Alajuela,Alajuela,153,Motociclista,Hombre,22,00-06,1.Domingo,K. Noviembre,20 A 24
+2024,Caída de algún ocupante,Alajuela,San Carlos,35,Motociclista,Hombre,28,00-06,1.Domingo,K. Noviembre,25 A 29
+2024,Caída de algún ocupante,Limón,Guácimo,Cantonal o desconocida,Motociclista,Hombre,29,00-06,1.Domingo,K. Noviembre,25 A 29
+2024,Salió de la vía,Alajuela,Alajuela,126,Conductor,Hombre,40,06-12,2.Lunes,K. Noviembre,40 A 44
+2024,Salió de la vía,Alajuela,Alajuela,126,Pasajero carro,Hombre,30,06-12,2.Lunes,K. Noviembre,30 A 34
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Pasajero bus,Hombre,82,06-12,2.Lunes,K. Noviembre,75+
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Conductor,Hombre,47,06-12,2.Lunes,K. Noviembre,45 A 49
+2024,Atropello a persona,San José,San José,Cantonal o desconocida,Peatón,Hombre,43,06-12,3.Martes,K. Noviembre,40 A 44
+2024,Salió de la vía,Puntarenas,Buenos Aires,2,Motociclista,Hombre,19,00-06,4.Miércoles,K. Noviembre,15 A 19
+2024,Caída de algún ocupante,Heredia,Sarapiquí,4,Motociclista,Hombre,56,00-06,4.Miércoles,K. Noviembre,55 A 59
+2024,Colisión entre vehículos,Guanacaste,Liberia,21,Motociclista,Hombre,28,06-12,4.Miércoles,K. Noviembre,25 A 29
+2024,Atropello a persona,Guanacaste,Abangares,1,Peatón,Hombre,Desconocida,00-06,5.Jueves,K. Noviembre,Desconocida
+2024,Salió de la vía,San José,Pérez Zeledón,Cantonal o desconocida,Pasajero carro,Hombre,68,12-18,5.Jueves,K. Noviembre,65 A 69
+2024,Colisión con bicicleta,Cartago,Turrialba,10,Ciclista,Hombre,15,18-24,5.Jueves,K. Noviembre,15 A 19
+2024,Colisión entre vehículos,Cartago,Cartago,219,Motociclista,Hombre,22,06-12,5.Jueves,K. Noviembre,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Montes de Oro,144,Motociclista,Hombre,75,06-12,1.Domingo,K. Noviembre,75+
+2024,Atropello a persona,Alajuela,San Carlos,141,Ciclista,Hombre,71,12-18,1.Domingo,K. Noviembre,70 A 74
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Pasajero moto,Mujer,75,00-06,2.Lunes,K. Noviembre,75+
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Conductor,Hombre,24,06-12,2.Lunes,K. Noviembre,20 A 24
+2024,Colisión con objeto fijo,Alajuela,Upala,6,Conductor,Hombre,41,06-12,6.Viernes,K. Noviembre,40 A 44
+2024,Colisión entre vehículos,Alajuela,Alajuela,27,Conductor,Hombre,45,06-12,6.Viernes,K. Noviembre,45 A 49
+2024,Colisión entre vehículos,Alajuela,Alajuela,27,Pasajero carro,Hombre,27,06-12,6.Viernes,K. Noviembre,25 A 29
+2024,Colisión con bicicleta,Cartago,Turrialba,232,Motociclista,Hombre,27,00-06,7.Sábado,K. Noviembre,25 A 29
+2024,Colisión con objeto fijo,San José,San José,39,Motociclista,Hombre,24,06-12,7.Sábado,K. Noviembre,20 A 24
+2024,Caída de algún ocupante,Cartago,Cartago,228,Motociclista,Hombre,46,06-12,7.Sábado,K. Noviembre,45 A 49
+2024,Colisión con bicicleta,Limón,Limón,36,Ciclista,Hombre,39,18-24,7.Sábado,K. Noviembre,35 A 39
+2024,Colisión con objeto fijo,Alajuela,San Carlos,140,Conductor,Hombre,45,00-06,1.Domingo,K. Noviembre,45 A 49
+2024,Caída de algún ocupante,Alajuela,Zarcero,Cantonal o desconocida,Conductor,Hombre,22,06-12,2.Lunes,K. Noviembre,20 A 24
+2024,Colisión entre vehículos,Guanacaste,Carrillo,21,Motociclista,Hombre,33,06-12,4.Miércoles,K. Noviembre,30 A 34
+2024,Colisión contra Semoviente,Alajuela,Upala,4,Pasajero moto,Hombre,46,00-06,5.Jueves,K. Noviembre,45 A 49
+2024,Atropello a persona,Alajuela,Orotina,27,Peatón,Hombre,37,00-06,7.Sábado,K. Noviembre,35 A 39
+2024,Colisión con bicicleta,San José,Pérez Zeledón,2,Ciclista,Mujer,33,06-12,7.Sábado,K. Noviembre,30 A 34
+2024,Salió de la vía,Heredia,Heredia,3,Motociclista,Hombre,22,18-24,7.Sábado,K. Noviembre,20 A 24
+2024,Caída de algún ocupante,Puntarenas,Osa,2,Motociclista,Hombre,55,12-18,1.Domingo,K. Noviembre,55 A 59
+2024,Caída de algún ocupante,Puntarenas,Osa,2,Pasajero moto,Mujer,52,12-18,1.Domingo,K. Noviembre,50 A 54
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Motociclista,Hombre,66,18-24,1.Domingo,K. Noviembre,65 A 69
+2024,Colisión entre vehículos,San José,Pérez Zeledón,243,Motociclista,Hombre,28,12-18,3.Martes,K. Noviembre,25 A 29
+2024,Colisión con objeto fijo,Alajuela,San Carlos,35,Conductor,Hombre,30,18-24,4.Miércoles,K. Noviembre,30 A 34
+2024,Colisión entre vehículos,Heredia,Sarapiquí,4,Motociclista,Hombre,44,12-18,5.Jueves,K. Noviembre,40 A 44
+2024,Salió de la vía,San José,Puriscal,239,Conductor,Mujer,36,12-18,6.Viernes,K. Noviembre,35 A 39
+2024,Colisión entre vehículos,San José,Puriscal,239,Motociclista,Hombre,66,12-18,6.Viernes,K. Noviembre,65 A 69
+2024,Atropello a persona,Alajuela,Orotina,34,Peatón,Hombre,24,18-24,6.Viernes,K. Noviembre,20 A 24
+2024,Colisión entre vehículos,Limón,Guácimo,32,Motociclista,Hombre,51,00-06,7.Sábado,K. Noviembre,50 A 54
+2024,Salió de la vía,Puntarenas,Quepos,34,Pasajero carro,Hombre,66,18-24,3.Martes,L. Diciembre,65 A 69
+2024,Colisión con objeto fijo,Limón,Pococí,249,Motociclista,Hombre,19,06-12,4.Miércoles,L. Diciembre,15 A 19
+2024,Colisión entre vehículos,San José,San José,39,Motociclista,Hombre,36,12-18,4.Miércoles,L. Diciembre,35 A 39
+2024,Colisión entre vehículos,Limón,Siquirres,415,Motociclista,Hombre,27,18-24,4.Miércoles,L. Diciembre,25 A 29
+2024,Atropello a persona,Alajuela,Naranjo,1,Peatón,Mujer,66,12-18,5.Jueves,L. Diciembre,65 A 69
+2024,Atropello a persona,Guanacaste,Nicoya,150,Peatón,Hombre,63,00-06,6.Viernes,L. Diciembre,60 A 64
+2024,Colisión entre vehículos,San José,Vázquez de Coronado,102,Motociclista,Hombre,31,12-18,7.Sábado,L. Diciembre,30 A 34
+2024,Salió de la vía,Guanacaste,Santa Cruz,910,Pasajero moto,Mujer,36,18-24,7.Sábado,L. Diciembre,35 A 39
+2024,Colisión con objeto fijo,Limón,Guácimo,32,Conductor,Hombre,54,18-24,7.Sábado,L. Diciembre,50 A 54
+2024,Colisión entre vehículos,Alajuela,Upala,6,Motociclista,Hombre,34,18-24,7.Sábado,L. Diciembre,30 A 34
+2024,Colisión entre vehículos,Limón,Limón,32,Motociclista,Hombre,38,00-06,1.Domingo,L. Diciembre,35 A 39
+2024,Colisión entre vehículos,San José,Escazú,27,Motociclista,Hombre,Desconocida,00-06,1.Domingo,L. Diciembre,Desconocida
+2024,Colisión entre vehículos,Alajuela,Alajuela,Cantonal o desconocida,Ciclista,Hombre,40,00-06,1.Domingo,L. Diciembre,40 A 44
+2024,Salió de la vía,Alajuela,San Carlos,140,Motociclista,Hombre,31,00-06,1.Domingo,L. Diciembre,30 A 34
+2024,Colisión entre vehículos,Heredia,Heredia,1,Motociclista,Mujer,52,06-12,1.Domingo,L. Diciembre,50 A 54
+2024,Colisión entre vehículos,Heredia,Heredia,1,Pasajero carro,Mujer,42,06-12,1.Domingo,L. Diciembre,40 A 44
+2024,Salió de la vía,Puntarenas,Golfito,245,Motociclista,Hombre,18,00-06,2.Lunes,L. Diciembre,15 A 19
+2024,Colisión con objeto fijo,Limón,Talamanca,36,Motociclista,Hombre,68,18-24,2.Lunes,L. Diciembre,65 A 69
+2024,Atropello a persona,Puntarenas,Puntarenas,17,Peatón,Hombre,48,18-24,2.Lunes,L. Diciembre,45 A 49
+2024,Colisión entre vehículos,Alajuela,Grecia,1,Motociclista,Hombre,29,18-24,3.Martes,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,San José,San José,Cantonal o desconocida,Motociclista,Hombre,53,12-18,4.Miércoles,L. Diciembre,50 A 54
+2024,Atropello a persona,Puntarenas,Buenos Aires,2,Peatón,Hombre,81,06-12,5.Jueves,L. Diciembre,75+
+2024,Atropello a persona,San José,Santa Ana,27,Peatón,Hombre,47,00-06,5.Jueves,L. Diciembre,45 A 49
+2024,Vuelco,Puntarenas,Garabito,34,Pasajero carro,Mujer,28,06-12,6.Viernes,L. Diciembre,25 A 29
+2024,Atropello a persona,Alajuela,Alajuela,Cantonal o desconocida,Peatón,Hombre,71,06-12,6.Viernes,L. Diciembre,70 A 74
+2024,Vuelco,San José,Vázquez de Coronado,32,Conductor,Hombre,56,18-24,6.Viernes,L. Diciembre,55 A 59
+2024,Colisión entre vehículos,San José,Curridabat,Cantonal o desconocida,Conductor,Hombre,25,18-24,6.Viernes,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,San José,Santa Ana,Cantonal o desconocida,Pasajero moto,Mujer,20,18-24,6.Viernes,L. Diciembre,20 A 24
+2024,Colisión entre vehículos,Puntarenas,Quepos,34,Motociclista,Hombre,Desconocida,00-06,7.Sábado,L. Diciembre,Desconocida
+2024,Salió de la vía,Alajuela,San Mateo,Cantonal o desconocida,Conductor,Hombre,70,18-24,7.Sábado,L. Diciembre,70 A 74
+2024,Colisión entre vehículos,Puntarenas,Parrita,34,Motociclista,Hombre,60,18-24,1.Domingo,L. Diciembre,60 A 64
+2024,Atropello a persona,Puntarenas,Esparza,1,Peatón,Hombre,61,18-24,1.Domingo,L. Diciembre,60 A 64
+2024,Colisión entre vehículos,Limón,Limón,32,Motociclista,Hombre,19,18-24,1.Domingo,L. Diciembre,15 A 19
+2024,Colisión entre vehículos,Alajuela,Alajuela,1,Motociclista,Hombre,34,12-18,2.Lunes,L. Diciembre,30 A 34
+2024,Colisión entre vehículos,Alajuela,San Carlos,250,Motociclista,Hombre,43,12-18,2.Lunes,L. Diciembre,40 A 44
+2024,Salió de la vía,Puntarenas,Golfito,Cantonal o desconocida,Conductor,Hombre,43,06-12,3.Martes,L. Diciembre,40 A 44
+2024,Colisión entre vehículos,Alajuela,San Carlos,4,Motociclista,Hombre,55,06-12,4.Miércoles,L. Diciembre,55 A 59
+2024,Colisión entre vehículos,Alajuela,Alajuela,153,Motociclista,Hombre,62,06-12,4.Miércoles,L. Diciembre,60 A 64
+2024,Colisión con objeto fijo,Guanacaste,Nicoya,Cantonal o desconocida,Conductor,Hombre,60,12-18,4.Miércoles,L. Diciembre,60 A 64
+2024,Colisión entre vehículos,Limón,Limón,234,Motociclista,Hombre,22,18-24,4.Miércoles,L. Diciembre,20 A 24
+2024,Caída de algún ocupante,San José,Acosta,Cantonal o desconocida,Motociclista,Mujer,25,18-24,4.Miércoles,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,San José,Pérez Zeledón,2,Motociclista,Hombre,34,18-24,5.Jueves,L. Diciembre,30 A 34
+2024,Salió de la vía,Puntarenas,Golfito,245,Motociclista,Hombre,31,18-24,6.Viernes,L. Diciembre,30 A 34
+2024,Colisión entre vehículos,San José,Curridabat,Cantonal o desconocida,Motociclista,Hombre,26,18-24,7.Sábado,L. Diciembre,25 A 29
+2024,Atropello a persona,Limón,Matina,Cantonal o desconocida,Pasajero moto,Mujer,19,00-06,7.Sábado,L. Diciembre,15 A 19
+2024,Colisión entre vehículos,Puntarenas,Osa,34,Motociclista,Mujer,35,06-12,7.Sábado,L. Diciembre,35 A 39
+2024,Colisión entre vehículos,Puntarenas,Corredores,2,Conductor,Hombre,61,06-12,1.Domingo,L. Diciembre,60 A 64
+2024,Colisión con objeto fijo,Puntarenas,Montes de Oro,Cantonal o desconocida,Pasajero carro,Mujer,70,06-12,1.Domingo,L. Diciembre,70 A 74
+2024,Colisión con objeto fijo,Puntarenas,Esparza,Cantonal o desconocida,Motociclista,Hombre,25,12-18,1.Domingo,L. Diciembre,25 A 29
+2024,Colisión con objeto fijo,Puntarenas,Esparza,Cantonal o desconocida,Motociclista,Hombre,31,00-06,2.Lunes,L. Diciembre,30 A 34
+2024,Salió de la vía,Puntarenas,Esparza,1,Pasajero moto,Mujer,26,00-06,2.Lunes,L. Diciembre,25 A 29
+2024,Atropello a persona,Cartago,Turrialba,414,Peatón,Hombre,6,06-12,2.Lunes,L. Diciembre,05 A 9
+2024,Colisión entre vehículos,Guanacaste,Nicoya,150,Pasajero moto,Hombre,22,18-24,4.Miércoles,L. Diciembre,20 A 24
+2024,Atropello a persona,San José,Moravia,109,Peatón,Hombre,62,06-12,6.Viernes,L. Diciembre,60 A 64
+2024,Colisión entre vehículos,Alajuela,Naranjo,1,Motociclista,Hombre,26,12-18,6.Viernes,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,Cartago,Cartago,10,Peatón,Hombre,46,18-24,6.Viernes,L. Diciembre,45 A 49
+2024,Atropello a persona,Puntarenas,Osa,2,Peatón,Hombre,45,18-24,7.Sábado,L. Diciembre,45 A 49
+2024,Colisión entre vehículos,Alajuela,San Ramón,1,Conductor,Mujer,20,12-18,1.Domingo,L. Diciembre,20 A 24
+2024,Colisión con bicicleta,Alajuela,Guatuso,4,Ciclista,Hombre,49,00-06,2.Lunes,L. Diciembre,45 A 49
+2024,Atropello a persona,Puntarenas,Osa,2,Peatón,Hombre,45,18-24,7.Sábado,L. Diciembre,45 A 49
+2024,Atropello a persona,Puntarenas,Osa,2,Peatón,Hombre,27,18-24,2.Lunes,L. Diciembre,25 A 29
+2024,Salió de la vía,Alajuela,Grecia,154,Pasajero moto,Mujer,21,18-24,2.Lunes,L. Diciembre,20 A 24
+2024,Salió de la vía,Puntarenas,Parrita,34,Motociclista,Hombre,28,18-24,3.Martes,L. Diciembre,25 A 29
+2024,Colisión entre vehículos,Alajuela,Atenas,3,Motociclista,Hombre,Desconocida,18-24,3.Martes,L. Diciembre,Desconocida
+2024,Colisión entre vehículos,Limón,Siquirres,32,Motociclista,Mujer,28,18-24,3.Martes,L. Diciembre,25 A 29
+>>>>>>> 96da0f649046087ad96650cc5231b514d6467301

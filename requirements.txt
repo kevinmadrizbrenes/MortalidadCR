@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+supabase
+
+fastapi==0.95.1
+uvicorn==0.22.0
+psycopg2-binary==2.9.3   # Si estás usando una base de datos PostgreSQL
+requests==2.28.1         # Si necesitas hacer peticiones HTTP
+=======
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+supabase
+
+fastapi==0.95.1
+uvicorn==0.22.0
+psycopg2-binary==2.9.3   # Si estás usando una base de datos PostgreSQL
+requests==2.28.1         # Si necesitas hacer peticiones HTTP
+>>>>>>> 96da0f649046087ad96650cc5231b514d6467301
