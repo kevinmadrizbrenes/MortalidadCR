@@ -42,28 +42,3 @@ SQL: Consultas a la base de datos.
 Excel: Preprocesamiento inicial y organización de datos.
 
 Power BI: Creación de dashboards interactivos para insights visuales.
-=======
-📊 Análisis y Pronóstico de Mortalidad en Costa Rica
-
-Autor: Kevin Madriz Brenes
-Fecha de inicio: Marzo 2025
-Repositorio: https://github.com/kevinmadrizbrenes/MortalidadCR
-
-Descripción del Proyecto:
-
-Este proyecto tiene como objetivo realizar un análisis exploratorio y predictivo de la mortalidad en accidentes de tránsito en Costa Rica en el año 2024, extrayendo datos reales por medio de la API oficial de Cosevi. Se emplean herramientas avanzadas de análisis de datos, visualización y predicción para obtener insights, identificar tendencias y generar pronósticos sobre las muertes en el país.
-
-Tecnologías Utilizadas
-Python: Para limpieza de datos, análisis, modelado y predicción. (data/api_Cosevi.py) (notebooks/MortalidadCR.ipynb)
-Jupyter Notebook: Desarrollo interactivo del proceso de análisis. (notebooks/MortalidadCR.ipynb)
-SQL: Gestor de base de datos y consultas.
-Excel: Preprocesamiento de los datos y carga inicial. (data/datos_cosevi.xlms)
-Power BI: Creación de dashboards interactivos. (powerbi/MortalidadCR_BI.pbix)
-
-Encontrará un resumen de datos en la carpeta "reports"
-
-Librerías Utilizadas
-Ejecuta el siguiente comando para instalar todas las dependencias necesarias:
-
-pip install -r requirements.txt
->>>>>>> 96da0f649046087ad96650cc5231b514d6467301
